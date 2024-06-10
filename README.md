@@ -16,7 +16,11 @@
 
 - [Elixir Brazil :brazil:](https://t.me/elixirbr)
 
+- [Elixir Brasil offtopic :brazil:](https://t.me/elixirbr_offtopic)
+
 - [Elug CE :brazil:](https://t.me/elug_ce)
+
+- [Elixir World :us:](https://t.me/elixir_world)
 
 #### Discord
 
