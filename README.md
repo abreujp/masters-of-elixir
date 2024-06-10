@@ -50,13 +50,19 @@
 
 - [Elixir Outlaws :us:](https://open.spotify.com/show/7wI0tsKVBkoHyYvofNOWCe)
 
-- [Elixir talk :us:](https://open.spotify.com/show/274tVpP3wM0qmwBPczQm2K)
+- [Elixir Talk :us:](https://open.spotify.com/show/274tVpP3wM0qmwBPczQm2K)
 
-- [Thinking Elixir Podcast :us:](https://open.spotify.com/show/3CBMe6U1KxJeZ7u3BcKFtf)
+- [Thinking Elixir podcast :us:](https://open.spotify.com/show/3CBMe6U1KxJeZ7u3BcKFtf)
 
 - [Elixir Wizards :us:](https://open.spotify.com/show/3wQJ4EMIPURAcrzJRw2SZf)
 
 - [Elixir Mix :us:](https://open.spotify.com/show/17aWMXiTUhipvWQ9UCZrRi)
+
+- [Elixir Round Table :us:](https://open.spotify.com/show/6a0ObQOK77re59EHxNt8Rc)
+
+- [Beam Radio :us:](https://open.spotify.com/show/6vH87E5CYyCOkB7NKu55dV)
+
+- [Elixir Mentor :us:](https://open.spotify.com/show/2rHsGq3C8LjtHicJbYt3m3)
 
 ## Programming Challenges
 
