@@ -20,7 +20,7 @@
 
 #### Discord
 
-- [Elixir :us:](https://discord.com/invite/elixir)
+- [Elixir Official :us:](https://discord.com/invite/elixir)
 
 #### Slack
 
