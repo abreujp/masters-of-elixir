@@ -36,6 +36,8 @@
 
 ## Books
 
+- [Programming Elixir 1.6, Functional |> Concurrent |> Pragmatic |> Fun, Dave Thomas :us:](https://pragprog.com/titles/elixir16/programming-elixir-1-6/)
+
 ## Social Media
 
 ## Podcasts
