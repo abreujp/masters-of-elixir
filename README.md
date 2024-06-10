@@ -8,7 +8,7 @@
 
 ## Table of Content
 
-[Chats](#chats) - [Courses](#courses) - [Documentation](#documentation) - [Forums](#forums) - [Books](#books) - [Social Media](#social-media) - [Podcasts](#podcasts) - [Programming Challenges](#programming-challenges) - [Youtube Channels](#youtube-channels) - [Hosting Services](#hosting-services) - [Package Information](#gem-information) - [Elixir Community Events](#elixir-community-events)
+[Chats](#chats) - [Courses](#courses) - [Documentation](#documentation) - [Forums](#forums) - [Books](#books) - [Social Media](#social-media) - [Podcasts](#podcasts) - [Programming Challenges](#programming-challenges) - [Youtube Channels](#youtube-channels) - [Hosting Services](#hosting-services) - [Package Information](#package-information) - [Elixir Community Events](#elixir-community-events)
 
 ## Chats
 
