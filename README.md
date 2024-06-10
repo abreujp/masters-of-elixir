@@ -50,6 +50,32 @@
 
 ## Youtube Channels
 
+- [Elug CE :brazil:](https://www.youtube.com/@elug_ce)
+
+- [Professor Adolfo Neto :brazil:](https://www.youtube.com/@AdolfoNeto)
+
+- [Alchemist Camp :us:](https://www.youtube.com/@AlchemistCamp)
+
+- [Chris McCord :us:](https://www.youtube.com/@chrismccord9211)
+
+- [Code Sync :us:](https://www.youtube.com/@CodeSync)
+
+- [Codestirring :us:](https://www.youtube.com/@codestirring)
+
+- [Elixir Brasil :brazil:](https://www.youtube.com/@ElixirBrasil)
+
+- [Elixir em foco :brazil:](https://www.youtube.com/@elixiremfoco)
+
+- [Elixir mentor :us:](https://www.youtube.com/@elixirmentor)
+
+- [ElixirConf :us:](https://www.youtube.com/@ElixirConf)
+
+- [Elx pro br :brazil:](https://www.youtube.com/@elxproBR)
+
+- [Lubien :brazil:](https://www.youtube.com/@lubiendev)
+
+- [Plangora :us:](https://www.youtube.com/@Plangora)
+
 ## Hosting Services
 
 ## Package Information
