@@ -42,6 +42,18 @@
 
 ## Podcasts
 
+- [Elixir em foco :brazil:](https://open.spotify.com/show/43aDX4kajkNCKaCYpGPooJ)
+
+- [Elixir Outlaws :us:](https://open.spotify.com/show/7wI0tsKVBkoHyYvofNOWCe)
+
+- [Elixir talk :us:](https://open.spotify.com/show/274tVpP3wM0qmwBPczQm2K)
+
+- [Thinking Elixir Podcast :us:](https://open.spotify.com/show/3CBMe6U1KxJeZ7u3BcKFtf)
+
+- [Elixir Wizards :us:](https://open.spotify.com/show/3wQJ4EMIPURAcrzJRw2SZf)
+
+- [Elixir Mix :us:](https://open.spotify.com/show/17aWMXiTUhipvWQ9UCZrRi)
+
 ## Programming Challenges
 
 - [Codewars :us:](https://www.codewars.com/dashboard)
