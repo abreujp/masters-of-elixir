@@ -8,7 +8,7 @@
 
 ## Table of Content
 
-[Chats](#chats) - [Courses](#courses) - [NewsLetters](#newsletters) - [Documentation](#documentation) - [Forums](#forums) - [Books](#books) - [Social Media](#social-media) - [Podcasts](#podcasts) - [Programming Challenges](#programming-challenges) - [Youtube Channels](#youtube-channels) - [Hosting Services](#hosting-services) - [Package Information](#package-information) - [Elixir Community Events](#elixir-community-events)
+[Chats](#chats) - [Courses](#courses) - [Newsletters](#newsletters) - [Documentation](#documentation) - [Forums](#forums) - [Books](#books) - [Social Media](#social-media) - [Podcasts](#podcasts) - [Programming Challenges](#programming-challenges) - [Youtube Channels](#youtube-channels) - [Hosting Services](#hosting-services) - [Package Information](#package-information) - [Elixir Community Events](#elixir-community-events)
 
 ## Chats
 
@@ -30,7 +30,7 @@
 
 ## Courses
 
-## NewsLetters
+## Newsletters
 
 - [Elixir Weekly :us:](https://elixirweekly.net/)
 
