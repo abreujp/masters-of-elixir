@@ -38,6 +38,7 @@
 - [Elixir Merge :us:](https://elixirmerge.com/) - Updates and news about Elixir.
 - [Data Elixir :us:](https://dataelixir.com/) - Data Science - Newsletter about data science with a focus on Elixir.
 - [Awesome Elixir Newsletter :us:](https://elixir.libhunt.com/newsletter) - Amazing resources about Elixir.
+- [Café com Elixir :brazil:](https://cafecomelixir.substack.com/) - News and tips about Elixir from Brazil.
 
 ## :book: Documentation
 
