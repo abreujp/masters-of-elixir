@@ -10,7 +10,6 @@
 
 :speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
 
-
 ## :speech_balloon: Chats
 
 #### Telegram
@@ -38,6 +37,7 @@
 - [Elixir Merge :us:](https://elixirmerge.com/) - Updates and news about Elixir.
 - [Data Elixir :us:](https://dataelixir.com/) - Data Science - Newsletter about data science with a focus on Elixir.
 - [Awesome Elixir Newsletter :us:](https://elixir.libhunt.com/newsletter) - Amazing resources about Elixir.
+- [Café com Elixir :brazil:](https://cafecomelixir.substack.com/) - News and tips about Elixir from Brazil.
 
 ## :book: Documentation
 
@@ -51,7 +51,7 @@
 ## :books: Books
 
 - [Programming Elixir 1.6, Functional |> Concurrent |> Pragmatic |> Fun, Dave Thomas :us:](https://pragprog.com/titles/elixir16/programming-elixir-1-6/) - Comprehensive book on Elixir by Dave Thomas.
-- [Elixir: Do zero à concorrência 🇧🇷](https://www.amazon.com.br/Elixir-Do-zero-%C3%A0-concorr%C3%AAncia-ebook/dp/B06Y5SWJR8/ref=sr_1_1?crid=358KW784GB54W&dib=eyJ2IjoiMSJ9.R16LMJKJOfANS4_gxPj2lLETJXajc6Dfb5BQx0X7vepX9gGS35hn_dmMWRisvgAhZ7Q8Lpmvoo_AUaMIS0bXrSK5X-mqyduam7xm-gecxdPeqAbftydGz0gCyubPaudhCr3czdRHQgOTDdtxktSwh3Zo0dRJHJLj7Gx5j9CvbRYPa5yL2s-fVTe0G9_6OMCGLqZqfEY3sCzGq6DJDapc050pe76d8wL8NFIlXG13Rx5lpXKiUr27u5qtVJaHT7qXVaBxOyze-cgbMDN5JYTZvLcAMTcWQTaJYHpzLwooRL0.WafCQVT3h_CGgfAMpDg-8bCPA1qjScgF-f_WqjvSV44&dib_tag=se&keywords=elixir+do+zero&qid=1718135244&sprefix=elixir+do+zer%2Caps%2C158&sr=8-1) - by Tiago Davi 
+- [Elixir: Do zero à concorrência 🇧🇷](https://www.amazon.com.br/Elixir-Do-zero-%C3%A0-concorr%C3%AAncia-ebook/dp/B06Y5SWJR8/ref=sr_1_1?crid=358KW784GB54W&dib=eyJ2IjoiMSJ9.R16LMJKJOfANS4_gxPj2lLETJXajc6Dfb5BQx0X7vepX9gGS35hn_dmMWRisvgAhZ7Q8Lpmvoo_AUaMIS0bXrSK5X-mqyduam7xm-gecxdPeqAbftydGz0gCyubPaudhCr3czdRHQgOTDdtxktSwh3Zo0dRJHJLj7Gx5j9CvbRYPa5yL2s-fVTe0G9_6OMCGLqZqfEY3sCzGq6DJDapc050pe76d8wL8NFIlXG13Rx5lpXKiUr27u5qtVJaHT7qXVaBxOyze-cgbMDN5JYTZvLcAMTcWQTaJYHpzLwooRL0.WafCQVT3h_CGgfAMpDg-8bCPA1qjScgF-f_WqjvSV44&dib_tag=se&keywords=elixir+do+zero&qid=1718135244&sprefix=elixir+do+zer%2Caps%2C158&sr=8-1) - by Tiago Davi
 
 ## :iphone: Social Media
 
