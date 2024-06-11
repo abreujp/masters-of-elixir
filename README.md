@@ -8,7 +8,7 @@
 
 ## Table of Content
 
-[Chats](#chats) - [Courses](#courses) - [Documentation](#documentation) - [Forums](#forums) - [Books](#books) - [Social Media](#social-media) - [Podcasts](#podcasts) - [Programming Challenges](#programming-challenges) - [Youtube Channels](#youtube-channels) - [Hosting Services](#hosting-services) - [Package Information](#package-information) - [Elixir Community Events](#elixir-community-events)
+[Chats](#chats) - [Courses](#courses) - [NewsLetters](#newsletters) - [Documentation](#documentation) - [Forums](#forums) - [Books](#books) - [Social Media](#social-media) - [Podcasts](#podcasts) - [Programming Challenges](#programming-challenges) - [Youtube Channels](#youtube-channels) - [Hosting Services](#hosting-services) - [Package Information](#package-information) - [Elixir Community Events](#elixir-community-events)
 
 ## Chats
 
@@ -29,6 +29,18 @@
 #### Slack
 
 ## Courses
+
+## NewsLetters
+
+- [Elixir Weekly :us:](https://elixirweekly.net/)
+
+- [Elixir Radar :us:](https://elixir-radar.com/)
+
+- [Elixir Merge :us:](https://elixirmerge.com/)
+
+- [Data Elixir :us:](https://dataelixir.com/) Data Science
+
+- [Awesome Elixir Newsletter :us:](https://elixir.libhunt.com/newsletter)
 
 ## Documentation
 
