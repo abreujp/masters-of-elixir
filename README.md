@@ -38,7 +38,7 @@
 
 - [Elixir Merge :us:](https://elixirmerge.com/)
 
-- [Data Elixir :us:](https://dataelixir.com/) Data Science
+- [Data Elixir :us:](https://dataelixir.com/) - Data Science
 
 - [Awesome Elixir Newsletter :us:](https://elixir.libhunt.com/newsletter)
 
@@ -112,8 +112,16 @@
 
 ## Hosting Services
 
+- [Gigalixir :us:](https://gigalixir.com/) - A platform as a service for Elixir applications.
+
+- [Render :us:](https://render.com/) - Easily deploy Elixir applications.
+
+- [Fly.io :us:](https://fly.io/) - Run Elixir apps close to your users.
+
 ## Package Information
 
-- [Elixir Toolbox :us:](https://elixir-toolbox.dev/)
+- [Elixir Toolbox :us:](https://elixir-toolbox.dev/) - Find and compare Elixir libraries and tools.
+
+- [Hex :us:](https://hex.pm/) - The package manager for the Elixir ecosystem.
 
 ## Elixir Community Events
