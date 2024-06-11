@@ -89,6 +89,7 @@
 - [Elx pro br :brazil:](https://www.youtube.com/@elxproBR) - Brazilian channel about Elixir.
 - [Lubien :brazil:](https://www.youtube.com/@lubiendev) - Videos about development with Elixir.
 - [Plangora :us:](https://www.youtube.com/@Plangora) - Tutorials and videos about Elixir.
+- [Você desenvolvedor :brazil:](https://www.youtube.com/@vocedesenvolvedor) - Videos about software development, focusing on Elixir and other technologies.
 
 ## :globe_with_meridians: Hosting Services
 
