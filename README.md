@@ -52,6 +52,7 @@
 
 - [Programming Elixir 1.6, Functional |> Concurrent |> Pragmatic |> Fun, Dave Thomas :us:](https://pragprog.com/titles/elixir16/programming-elixir-1-6/) - Comprehensive book on Elixir by Dave Thomas.
 - [Elixir: Do zero à concorrência 🇧🇷](https://www.amazon.com.br/Elixir-Do-zero-%C3%A0-concorr%C3%AAncia-ebook/dp/B06Y5SWJR8/ref=sr_1_1?crid=358KW784GB54W&dib=eyJ2IjoiMSJ9.R16LMJKJOfANS4_gxPj2lLETJXajc6Dfb5BQx0X7vepX9gGS35hn_dmMWRisvgAhZ7Q8Lpmvoo_AUaMIS0bXrSK5X-mqyduam7xm-gecxdPeqAbftydGz0gCyubPaudhCr3czdRHQgOTDdtxktSwh3Zo0dRJHJLj7Gx5j9CvbRYPa5yL2s-fVTe0G9_6OMCGLqZqfEY3sCzGq6DJDapc050pe76d8wL8NFIlXG13Rx5lpXKiUr27u5qtVJaHT7qXVaBxOyze-cgbMDN5JYTZvLcAMTcWQTaJYHpzLwooRL0.WafCQVT3h_CGgfAMpDg-8bCPA1qjScgF-f_WqjvSV44&dib_tag=se&keywords=elixir+do+zero&qid=1718135244&sprefix=elixir+do+zer%2Caps%2C158&sr=8-1) - by Tiago Davi
+- [Uma introdução interativa à linguagem de programação Elixir 🇧🇷](https://www.amazon.com.br/introdu%C3%A7%C3%A3o-interativa-linguagem-programa%C3%A7%C3%A3o-Elixir-ebook/dp/B09J35QWDY/ref=sr_1_1?crid=J3BHTGJC14P4&dib=eyJ2IjoiMSJ9.xxMskwBmxnJK9dsfaOMxP6ibqfPTkWeLEK_F2lu7kv-_pvhfwF-6MASJEK8OeglP.GTraDaa_KVvFiy_UpzxXl1WKzCBfUwZvm4jfRfPbRvg&dib_tag=se&keywords=uma+introdu%C3%A7%C3%A3o+interativa+%C3%A0+linguagem+de+programa%C3%A7%C3%A3o+elixir&qid=1718285094&s=digital-text&sprefix=%2Cdigital-text%2C183&sr=1-1) by Fernando Karpinski
 
 ## :iphone: Social Media
 
