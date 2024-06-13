@@ -91,6 +91,7 @@
 - [Lubien :brazil:](https://www.youtube.com/@lubiendev) - Videos about development with Elixir.
 - [Plangora :us:](https://www.youtube.com/@Plangora) - Tutorials and videos about Elixir.
 - [Você desenvolvedor :brazil:](https://www.youtube.com/@vocedesenvolvedor) - Videos about software development, focusing on Elixir and other technologies.
+- [Groxio :us:](https://www.youtube.com/@groxio) - Channel focused on Elixir, functional programming, and continuous learning.
 
 ## :globe_with_meridians: Hosting Services
 
