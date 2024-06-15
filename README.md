@@ -58,6 +58,7 @@
 - [Learn Functional Programming with Elixir: New Foundations for a New World, Ulisses Almeida :us:](https://www.amazon.com.br/Learn-Functional-Programming-Elixir-Foundations-ebook/dp/B07BRDXN4B/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - A foundation for functional programming in Elixir.
 - [Mastering Elixir: Build and scale concurrent, distributed, and fault-tolerant applications, Andre Albuquerque, Daniel Caixinha :us:](https://www.amazon.com.br/Mastering-Elixir-distributed-fault-tolerant-applications-ebook/dp/B07932HTBS/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-4) - Comprehensive guide on mastering Elixir.
 - [From Ruby to Elixir: Unleash the Full Potential of Functional Programming, Stephen Bussey :us:](https://www.amazon.com.br/Ruby-Elixir-English-Stephen-Bussey-ebook/dp/B0D6X9CFQJ/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Transition from Ruby to Elixir.
+- [Programmer Passport: Elixir, Bruce Tate :us:](https://www.amazon.com.br/Programmer-Passport-English-Bruce-Tate-ebook/dp/B0B4ZHK4T8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - A journey through Elixir's powerful features and paradigms, designed to help you become a proficient Elixir programmer.
 
 ## :iphone: Social Media
 
