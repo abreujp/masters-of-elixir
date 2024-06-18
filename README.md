@@ -22,6 +22,7 @@
 #### Discord
 
 - [Elixir Official :us:](https://discord.com/invite/elixir) - Official Elixir community on Discord.
+- [Elixir Mentor :us:](https://discord.gg/rsTARfP4xx) - A supportive community for learning and mastering Elixir. Join us for mentorship, resources, and collaboration with fellow Elixir enthusiasts.
 
 #### Slack
 
