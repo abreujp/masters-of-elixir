@@ -117,6 +117,7 @@
 
 - [Elug CE :brazil:](https://www.youtube.com/@elug_ce) - Channel of the Elixir user group in Ceará, Brazil.
 - [Professor Adolfo Neto :brazil:](https://www.youtube.com/@AdolfoNeto) - Videos about Elixir and functional programming.
+- [Professor Adolfo Neto about Elixir :brazil:](https://youtube.com/@elixiradolfont) - Dedicated channel focusing on Elixir, Erlang, and the BEAM ecosystem.
 - [Alchemist Camp :us:](https://www.youtube.com/@AlchemistCamp) - Tutorials and videos about Elixir.
 - [Chris McCord :us:](https://www.youtube.com/@chrismccord9211) - Channel of the creator of the Phoenix Framework.
 - [Code Sync :us:](https://www.youtube.com/@CodeSync) - Conferences and talks about Elixir.
