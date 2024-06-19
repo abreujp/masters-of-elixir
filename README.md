@@ -6,7 +6,7 @@
 
 :heavy_dollar_sign: Paid :free: Content Free :brazil: pt-BR :us: en :es: es :fr: fr :jp: jp
 
-## Table of Content
+## Table of Contents
 
 :speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
 
@@ -51,6 +51,8 @@
 
 ## :books: Books
 
+### Language
+
 - [Programming Elixir 1.6, Functional |> Concurrent |> Pragmatic |> Fun, Dave Thomas :us:](https://pragprog.com/titles/elixir16/programming-elixir-1-6/) - Comprehensive book on Elixir by Dave Thomas.
 - [Elixir: Do zero à concorrência 🇧🇷](https://www.amazon.com.br/Elixir-Do-zero-%C3%A0-concorr%C3%AAncia-ebook/dp/B06Y5SWJR8/ref=sr_1_1?crid=358KW784GB54W&dib=eyJ2IjoiMSJ9.R16LMJKJOfANS4_gxPj2lLETJXajc6Dfb5BQx0X7vepX9gGS35hn_dmMWRisvgAhZ7Q8Lpmvoo_AUaMIS0bXrSK5X-mqyduam7xm-gecxdPeqAbftydGz0gCyubPaudhCr3czdRHQgOTDdtxktSwh3Zo0dRJHJLj7Gx5j9CvbRYPa5yL2s-fVTe0G9_6OMCGLqZqfEY3sCzGq6DJDapc050pe76d8wL8NFIlXG13Rx5lpXKiUr27u5qtVJaHT7qXVaBxOyze-cgbMDN5JYTZvLcAMTcWQTaJYHpzLwooRL0.WafCQVT3h_CGgfAMpDg-8bCPA1qjScgF-f_WqjvSV44&dib_tag=se&keywords=elixir+do+zero&qid=1718135244&sprefix=elixir+do+zer%2Caps%2C158&sr=8-1) - by Tiago Davi
 - [Uma introdução interativa à linguagem de programação Elixir 🇧🇷](https://www.amazon.com.br/introdu%C3%A7%C3%A3o-interativa-linguagem-programa%C3%A7%C3%A3o-Elixir-ebook/dp/B09J35QWDY/ref=sr_1_1?crid=J3BHTGJC14P4&dib=eyJ2IjoiMSJ9.xxMskwBmxnJK9dsfaOMxP6ibqfPTkWeLEK_F2lu7kv-_pvhfwF-6MASJEK8OeglP.GTraDaa_KVvFiy_UpzxXl1WKzCBfUwZvm4jfRfPbRvg&dib_tag=se&keywords=uma+introdu%C3%A7%C3%A3o+interativa+%C3%A0+linguagem+de+programa%C3%A7%C3%A3o+elixir&qid=1718285094&s=digital-text&sprefix=%2Cdigital-text%2C183&sr=1-1) by Fernando Karpinski
@@ -60,6 +62,35 @@
 - [Mastering Elixir: Build and scale concurrent, distributed, and fault-tolerant applications, Andre Albuquerque, Daniel Caixinha :us:](https://www.amazon.com.br/Mastering-Elixir-distributed-fault-tolerant-applications-ebook/dp/B07932HTBS/ref=sr_1_4?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-4) - Comprehensive guide on mastering Elixir.
 - [From Ruby to Elixir: Unleash the Full Potential of Functional Programming, Stephen Bussey :us:](https://www.amazon.com.br/Ruby-Elixir-English-Stephen-Bussey-ebook/dp/B0D6X9CFQJ/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Transition from Ruby to Elixir.
 - [Programmer Passport: Elixir, Bruce Tate :us:](https://www.amazon.com.br/Programmer-Passport-English-Bruce-Tate-ebook/dp/B0B4ZHK4T8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - A journey through Elixir's powerful features and paradigms, designed to help you become a proficient Elixir programmer.
+
+### Web
+
+- [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript, Bruce A. Tate, Sophie DeBenedetto :us:](https://www.amazon.com/Programming-Phoenix-LiveView-Interactive-JavaScript/dp/1680508210) - Master interactive web programming in Elixir with Phoenix LiveView, enabling you to build rich, real-time user interfaces without writing any JavaScript. This book covers the fundamentals and advanced techniques of LiveView, helping you create dynamic, scalable web applications with ease.
+
+- [Build Your Own Web Framework in Elixir: Develop lightning-fast web applications using Phoenix and metaprogramming, Aditya Ivengar :us:](https://www.amazon.com.br/Build-Your-Framework-Elixir-hands-ebook/dp/B09BFSKHTJ/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn to develop your own web framework in Elixir, leveraging the power of Phoenix and metaprogramming. This book guides you through building high-performance web applications, offering in-depth knowledge and practical examples to enhance your Elixir development skills.
+
+### Test
+
+- [Testing Elixir, Effective and Robust Testing for Elixir and its Ecosystem, Andrea Leopardi, Jeffrey Mathhias :us:](https://www.amazon.com.br/Testing-Elixir-English-Andrea-Leopardi-ebook/dp/B09CT1J4P6/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - A comprehensive guide to testing in Elixir, covering techniques and best practices for writing effective and robust tests within the Elixir ecosystem.
+
+### Database
+
+- [Programming Ecto: Build Database Apps in Elixir for Scalability and Performance, Darin Wilson, Eric Meadows-Jönsson :us:](https://www.amazon.com.br/Programming-Ecto-Database-Scalability-Performance-ebook/dp/B07RRS9C1T/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Master the Ecto library to build efficient, scalable, and high-performance database applications in Elixir. This book covers the fundamentals of Ecto, from defining schemas and queries to advanced topics like migrations and multi-database support, providing practical insights for real-world applications.
+- [Exploring Graphs with Elixir, Connect Data with Native Graph Libraries and Graph Databases :us:](https://www.amazon.com.br/Exploring-Graphs-Elixir-English-Hammond-ebook/dp/B0BPZ11Z66/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Discover how to work with graph data structures and graph databases in Elixir. This book provides practical examples and techniques for connecting and processing data using native graph libraries and graph databases, helping you unlock the full potential of graph-based data in your Elixir applications.
+
+### Concurrency
+
+- [Concurrent Data Processing in Elixir, Fast Resilient Applications with OTP, GenStage, Flow, and Broadway, Svilen Gospodinov :us:](https://www.amazon.com.br/Concurrent-Data-Processing-Elixir-English-ebook/dp/B09GPDDK2N/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build fast and resilient concurrent applications in Elixir using OTP, GenStage, Flow, and Broadway. This book provides practical examples and detailed explanations to help you leverage Elixir's powerful concurrency capabilities for efficient data processing.
+
+### IoT (Internet of Things)
+
+- [Build a Weather Station with Elixir and Nerves, Visualize Your Sensor Data with Phoenix and Grafana, Alexander Koutmos, Bruce A. Tate, Frank Hunleth :us:](https://www.amazon.com.br/Weather-Station-Elixir-Nerves-English-ebook/dp/B09Z4WM79M/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build a weather station using Elixir and Nerves, and visualize your sensor data with Phoenix and Grafana. This book provides step-by-step instructions for setting up and deploying a weather station, capturing and processing sensor data, and creating interactive visualizations to monitor your weather data in real-time.
+
+### Deploy
+
+- [Deploying Elixir, The most comprehensive set of guides to deploy your Elixir application to Production, Miguel Cobá :us:](https://blog.miguelcoba.com/deploying-elixir-ebook) - The ultimate guide to deploying Elixir applications to production, covering best practices and advanced techniques.
+
+- [Deploying Elixir: Advanced Topics, Deploy to AWS, Azure, and GCP. Create clusters and orchestrate them with Kubernetes, Miguel Cobá :us:](https://store.miguelcoba.com/l/advancedtopics) - Dive into advanced deployment strategies for Elixir applications, covering deployment to major cloud providers like AWS, Azure, and GCP. Learn how to create and manage clusters, and orchestrate them using Kubernetes, ensuring your Elixir applications are scalable and resilient.
 
 ## :iphone: Social Media
 
