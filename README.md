@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
+:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
 
 ## :speech_balloon: Chats
 
@@ -93,6 +93,10 @@
 - [Deploying Elixir, The most comprehensive set of guides to deploy your Elixir application to Production, Miguel Cobá :us:](https://blog.miguelcoba.com/deploying-elixir-ebook) - The ultimate guide to deploying Elixir applications to production, covering best practices and advanced techniques.
 
 - [Deploying Elixir: Advanced Topics, Deploy to AWS, Azure, and GCP. Create clusters and orchestrate them with Kubernetes, Miguel Cobá :us:](https://store.miguelcoba.com/l/advancedtopics) - Dive into advanced deployment strategies for Elixir applications, covering deployment to major cloud providers like AWS, Azure, and GCP. Learn how to create and manage clusters, and orchestrate them using Kubernetes, ensuring your Elixir applications are scalable and resilient.
+
+## :books: Online Tutorials
+
+- [Elixir School :us:](https://elixirschool.com/en) - Comprehensive online resource for learning Elixir. It offers a wide range of tutorials and lessons covering the basics to advanced topics in Elixir programming.
 
 ## :iphone: Social Media
 
