@@ -138,6 +138,7 @@
 - [Você desenvolvedor :brazil:](https://www.youtube.com/@vocedesenvolvedor) - Videos about software development, focusing on Elixir and other technologies.
 - [Groxio :us:](https://www.youtube.com/@groxio) - Channel focused on Elixir, functional programming, and continuous learning.
 - [Montreal Elixir :us:](https://www.youtube.com/@montrealelixir) - Channel of the Montreal Elixir community, featuring meetups, talks, and discussions about Elixir and related technologies.
+- [Livebook :us:](https://www.youtube.com/@livebookdev) - Official channel for Livebook, featuring tutorials, updates, and insights on using Livebook for interactive and collaborative Elixir development.
 
 ## :globe_with_meridians: Hosting Services
 
