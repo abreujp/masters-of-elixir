@@ -57,6 +57,8 @@
 
 - [Elixir :us:](https://elixirforum.com/) - The official forum for Elixir discussions.
 - [Elixir Reddit :us:](https://www.reddit.com/r/elixir/) - Subreddit for discussions, news, and questions about Elixir.
+- [Stack Overflow Elixir :us:](https://stackoverflow.com/questions/tagged/elixir) - Questions and answers about Elixir on Stack Overflow.
+- [Stack Overflow Phoenix :us:](https://stackoverflow.com/questions/tagged/phoenix-framework) - Questions and answers about the Phoenix web framework on Stack Overflow.
 
 ## :books: Books
 
