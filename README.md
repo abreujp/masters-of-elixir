@@ -77,11 +77,10 @@
 
 ### Web
 
-- [Programming Phoenix 1.4: Productive |> Reliable |> Fast, Chris McCord, Bruce Tate, José Valim :us:](https://www.amazon.com/Programming-Phoenix-1-4-Productive-Reliable/dp/1680502263/ref=sr_1_1?sr=8-1) - Learn to build modern web applications with Phoenix 1.4, the Elixir-based web framework designed for speed, productivity, and reliability. This book covers everything from the basics of setting up a new Phoenix project to advanced topics like real-time communication and deployment. Written by the creators and experts of Phoenix and Elixir, this guide provides practical examples and best practices to help you harness the full power of Phoenix and create high-performance, maintainable applications.
-
-- [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript, Bruce A. Tate, Sophie DeBenedetto :us:](https://www.amazon.com/Programming-Phoenix-LiveView-Interactive-JavaScript/dp/1680508210) - Master interactive web programming in Elixir with Phoenix LiveView, enabling you to build rich, real-time user interfaces without writing any JavaScript. This book covers the fundamentals and advanced techniques of LiveView, helping you create dynamic, scalable web applications with ease.
-
-- [Build Your Own Web Framework in Elixir: Develop lightning-fast web applications using Phoenix and metaprogramming, Aditya Ivengar :us:](https://www.amazon.com.br/Build-Your-Framework-Elixir-hands-ebook/dp/B09BFSKHTJ/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn to develop your own web framework in Elixir, leveraging the power of Phoenix and metaprogramming. This book guides you through building high-performance web applications, offering in-depth knowledge and practical examples to enhance your Elixir development skills.
+- [Programming Phoenix 1.4: Productive |> Reliable |> Fast, Chris McCord, Bruce Tate, José Valim :us:](https://www.amazon.com/Programming-Phoenix-1-4-Productive-Reliable/dp/1680502263/ref=sr_1_1?sr=8-1) - Learn to build modern web applications with Phoenix 1.4, the Elixir-based web framework designed for speed, productivity, and reliability.
+- [Programming Phoenix LiveView: Interactive Elixir Web Programming Without Writing Any JavaScript, Bruce A. Tate, Sophie DeBenedetto :us:](https://www.amazon.com/Programming-Phoenix-LiveView-Interactive-JavaScript/dp/1680508210) - Master interactive web programming in Elixir with Phoenix LiveView, enabling you to build rich, real-time user interfaces without writing any JavaScript.
+- [Build Your Own Web Framework in Elixir: Develop lightning-fast web applications using Phoenix and metaprogramming, Aditya Ivengar :us:](https://www.amazon.com.br/Build-Your-Framework-Elixir-hands-ebook/dp/B09BFSKHTJ/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn to develop your own web framework in Elixir, leveraging the power of Phoenix and metaprogramming.
+- [Real-Time Phoenix: Build Highly Scalable Systems with Channels, Stephen Bussey :us:](https://www.amazon.com/s?k=Real-Time+Phoenix%3A+Build+Highly+Scalable+Systems+with+Channels) - Learn to build highly scalable real-time applications with Phoenix Channels.
 
 ### Metaprogramming
 
@@ -90,19 +89,20 @@
 ### Test
 
 - [Testing Elixir, Effective and Robust Testing for Elixir and its Ecosystem, Andrea Leopardi, Jeffrey Mathhias :us:](https://www.amazon.com.br/Testing-Elixir-English-Andrea-Leopardi-ebook/dp/B09CT1J4P6/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - A comprehensive guide to testing in Elixir, covering techniques and best practices for writing effective and robust tests within the Elixir ecosystem.
+- [Property-Based Testing with PropEr, Erlang, and Elixir: Find Bugs Before Your Users Do, Fred Hebert :us:](https://www.amazon.com/Property-Based-Testing-PropEr-Erlang-Elixir-ebook/dp/B07NFC3WR2/ref=sr_1_1?sr=8-1) Learn how to use property-based testing to catch bugs before they reach your users, leveraging the power of PropEr, Erlang, and Elixir.
 
 ### Database
 
-- [Programming Ecto: Build Database Apps in Elixir for Scalability and Performance, Darin Wilson, Eric Meadows-Jönsson :us:](https://www.amazon.com.br/Programming-Ecto-Database-Scalability-Performance-ebook/dp/B07RRS9C1T/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Master the Ecto library to build efficient, scalable, and high-performance database applications in Elixir. This book covers the fundamentals of Ecto, from defining schemas and queries to advanced topics like migrations and multi-database support, providing practical insights for real-world applications.
-- [Exploring Graphs with Elixir, Connect Data with Native Graph Libraries and Graph Databases :us:](https://www.amazon.com.br/Exploring-Graphs-Elixir-English-Hammond-ebook/dp/B0BPZ11Z66/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Discover how to work with graph data structures and graph databases in Elixir. This book provides practical examples and techniques for connecting and processing data using native graph libraries and graph databases, helping you unlock the full potential of graph-based data in your Elixir applications.
+- [Programming Ecto: Build Database Apps in Elixir for Scalability and Performance, Darin Wilson, Eric Meadows-Jönsson :us:](https://www.amazon.com.br/Programming-Ecto-Database-Scalability-Performance-ebook/dp/B07RRS9C1T/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Master the Ecto library to build efficient, scalable, and high-performance database applications in Elixir.
+- [Exploring Graphs with Elixir, Connect Data with Native Graph Libraries and Graph Databases :us:](https://www.amazon.com.br/Exploring-Graphs-Elixir-English-Hammond-ebook/dp/B0BPZ11Z66/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Discover how to work with graph data structures and graph databases in Elixir.
 
 ### Concurrency
 
-- [Concurrent Data Processing in Elixir, Fast Resilient Applications with OTP, GenStage, Flow, and Broadway, Svilen Gospodinov :us:](https://www.amazon.com.br/Concurrent-Data-Processing-Elixir-English-ebook/dp/B09GPDDK2N/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build fast and resilient concurrent applications in Elixir using OTP, GenStage, Flow, and Broadway. This book provides practical examples and detailed explanations to help you leverage Elixir's powerful concurrency capabilities for efficient data processing.
+- [Concurrent Data Processing in Elixir, Fast Resilient Applications with OTP, GenStage, Flow, and Broadway, Svilen Gospodinov :us:](https://www.amazon.com.br/Concurrent-Data-Processing-Elixir-English-ebook/dp/B09GPDDK2N/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build fast and resilient concurrent applications in Elixir using OTP, GenStage, Flow, and Broadway.
 
 ### IoT (Internet of Things)
 
-- [Build a Weather Station with Elixir and Nerves, Visualize Your Sensor Data with Phoenix and Grafana, Alexander Koutmos, Bruce A. Tate, Frank Hunleth :us:](https://www.amazon.com.br/Weather-Station-Elixir-Nerves-English-ebook/dp/B09Z4WM79M/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build a weather station using Elixir and Nerves, and visualize your sensor data with Phoenix and Grafana. This book provides step-by-step instructions for setting up and deploying a weather station, capturing and processing sensor data, and creating interactive visualizations to monitor your weather data in real-time.
+- [Build a Weather Station with Elixir and Nerves, Visualize Your Sensor Data with Phoenix and Grafana, Alexander Koutmos, Bruce A. Tate, Frank Hunleth :us:](https://www.amazon.com.br/Weather-Station-Elixir-Nerves-English-ebook/dp/B09Z4WM79M/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build a weather station using Elixir and Nerves, and visualize your sensor data with Phoenix and Grafana.
 
 ### Deploy
 
