@@ -42,7 +42,16 @@
 
 ## :book: Documentation
 
-- [Elixir 1.16 standard library :us:](https://hexdocs.pm/elixir/1.16.3/Kernel.html) - Documentation for the Elixir 1.16 standard library.
+- [Elixir Guides :us:](https://elixir-lang.org/getting-started/introduction.html) - Comprehensive guide to getting started with Elixir.
+- [Elixir standard library :us:](https://hexdocs.pm/elixir) - Documentation for the Elixir standard library.
+- [Mix :us:](https://hexdocs.pm/mix) - Documentation for Mix, a build tool that provides tasks for creating, compiling, and testing Elixir projects.
+- [Hex :us:](https://hex.pm/docs) - Documentation for Hex, the package manager for the Elixir ecosystem.
+- [ExDoc :us:](https://hexdocs.pm/ex_doc) - Documentation for ExDoc, a tool to generate documentation for Elixir projects.
+- [Phoenix Framework :us:](https://hexdocs.pm/phoenix) - Official documentation for the Phoenix web framework.
+- [LiveView :us:](https://hexdocs.pm/phoenix_live_view) - Documentation for Phoenix LiveView, enabling rich, real-time user experiences with server-rendered HTML.
+- [Ecto :us:](https://hexdocs.pm/ecto) - Official documentation for Ecto, the database wrapper and query generator for Elixir.
+- [Nerves :us:](https://hexdocs.pm/nerves) - Official documentation for Nerves, a framework for building embedded systems with Elixir.
+- [Nx :us:](https://hexdocs.pm/nx) - Numerical Elixir (Nx) is a library for numerical computations.
 
 ## :globe_with_meridians: Forums
 
