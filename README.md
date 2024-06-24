@@ -71,6 +71,10 @@
 
 - [Build Your Own Web Framework in Elixir: Develop lightning-fast web applications using Phoenix and metaprogramming, Aditya Ivengar :us:](https://www.amazon.com.br/Build-Your-Framework-Elixir-hands-ebook/dp/B09BFSKHTJ/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn to develop your own web framework in Elixir, leveraging the power of Phoenix and metaprogramming. This book guides you through building high-performance web applications, offering in-depth knowledge and practical examples to enhance your Elixir development skills.
 
+### Metaprogramming
+
+- [Metaprogramming Elixir: Write Less Code, Get More Done, Chris McCord :us:](https://www.amazon.com/Metaprogramming-Elixir-Write-Less-Code/dp/1680500414) - Master the art of metaprogramming in Elixir with this comprehensive guide by Chris McCord. Learn how to write less code and achieve more by leveraging Elixir's powerful metaprogramming capabilities.
+
 ### Test
 
 - [Testing Elixir, Effective and Robust Testing for Elixir and its Ecosystem, Andrea Leopardi, Jeffrey Mathhias :us:](https://www.amazon.com.br/Testing-Elixir-English-Andrea-Leopardi-ebook/dp/B09CT1J4P6/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - A comprehensive guide to testing in Elixir, covering techniques and best practices for writing effective and robust tests within the Elixir ecosystem.
