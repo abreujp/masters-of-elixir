@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridiens-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
+:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
 
 ## :speech_balloon: Chats
 
@@ -165,6 +165,7 @@
 - [Gigalixir :us:](https://gigalixir.com/) - Platform as a service for Elixir applications.
 - [Render :us:](https://render.com/) - Easily deploy Elixir applications.
 - [Fly.io :us:](https://fly.io/) - Run Elixir apps close to your users.
+- [Heroku :us:](https://www.heroku.com/) - Deploy Elixir applications with ease.
 
 ## :package: Package Information
 
