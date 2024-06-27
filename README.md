@@ -48,6 +48,7 @@
 - [Hex :us:](https://hex.pm/docs) - Documentation for Hex, the package manager for the Elixir ecosystem.
 - [ExDoc :us:](https://hexdocs.pm/ex_doc) - Documentation for ExDoc, a tool to generate documentation for Elixir projects.
 - [Phoenix Framework :us:](https://hexdocs.pm/phoenix) - Official documentation for the Phoenix web framework.
+- [Ash Framework :us:](https://hexdocs.pm/ash) - Documentation for Ash, a resource-oriented web framework for building flexible and maintainable applications.
 - [LiveView :us:](https://hexdocs.pm/phoenix_live_view) - Documentation for Phoenix LiveView, enabling rich, real-time user experiences with server-rendered HTML.
 - [Ecto :us:](https://hexdocs.pm/ecto) - Official documentation for Ecto, the database wrapper and query generator for Elixir.
 - [Nerves :us:](https://hexdocs.pm/nerves) - Official documentation for Nerves, a framework for building embedded systems with Elixir.
