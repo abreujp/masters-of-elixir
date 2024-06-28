@@ -30,6 +30,7 @@
 - [Pragmatic Studio Elixir Course :us: :heavy_dollar_sign:](https://pragmaticstudio.com/elixir) - Learn Elixir through this comprehensive course by Pragmatic Studio.
 - [ELXPRO :us: :heavy_dollar_sign:](https://elxpro.com/) - A comprehensive course designed to make you an expert in Elixir, covering common mistakes, advanced techniques like the PPC (Phoenix and LiveView) and PEER (Process, Ecto, External services, and REST) methods. It provides hands-on experience with Phoenix, LiveView, API development, and deploying applications.
 - [Grox.io Courses :us: :heavy_dollar_sign:](https://grox.io/elixir-video-courses/for-individuals) - Comprehensive video courses on Elixir, designed to help you master the language and its ecosystem.
+- [Learn Phoenix LiveView, George Arrowsmith :us: :heavy_dollar_sign:](https://phoenixliveview.com/) - A comprehensive course that teaches you how to build dynamic, real-time web applications using Phoenix LiveView.
 
 ## :newspaper: Newsletters
 
