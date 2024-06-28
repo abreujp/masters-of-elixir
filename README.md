@@ -180,6 +180,7 @@
 - [Groxio :us:](https://www.youtube.com/@groxio) - Channel focused on Elixir, functional programming, and continuous learning.
 - [Montreal Elixir :us:](https://www.youtube.com/@montrealelixir) - Channel of the Montreal Elixir community, featuring meetups, talks, and discussions about Elixir and related technologies.
 - [Livebook :us:](https://www.youtube.com/@livebookdev) - Official channel for Livebook, featuring tutorials, updates, and insights on using Livebook for interactive and collaborative Elixir development.
+- [Elixir Crash Course by Daniel Berg :us:](https://www.youtube.com/watch?v=Q0Z1jqv6LW0&list=PLbV6TI03ZWYVQEC_Txq_cV0Uy_s16b0d3) - A comprehensive crash course on Elixir by Daniel Berg, covering fundamental concepts and practical examples to help you get started with Elixir development.
 
 ## :globe_with_meridians: Hosting Services
 
