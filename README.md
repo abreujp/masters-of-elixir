@@ -149,6 +149,7 @@
 ## :briefcase: Jobs & Career
 
 - [Elixir Jobs :us:](https://elixirjobs.net/) - A job board specifically for Elixir developers.
+- [LinkedIn :us:](https://www.linkedin.com/jobs/elixir-developer-jobs/) - Professional networking site with job postings for Elixir developers.
 
 ## :iphone: Social Media
 
