@@ -150,6 +150,7 @@
 
 - [Elixir Jobs :us:](https://elixirjobs.net/) - A job board specifically for Elixir developers.
 - [LinkedIn :us:](https://www.linkedin.com/jobs/elixir-developer-jobs/) - Professional networking site with job postings for Elixir developers.
+- [Elixir Radar Jobs :us:](https://elixir-radar.com/jobs) - Job board focused on Elixir-related opportunities.
 
 ## :iphone: Social Media
 
