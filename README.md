@@ -31,6 +31,15 @@
 - [ELXPRO :us: :heavy_dollar_sign:](https://elxpro.com/) - A comprehensive course designed to make you an expert in Elixir, covering common mistakes, advanced techniques like the PPC (Phoenix and LiveView) and PEER (Process, Ecto, External services, and REST) methods. It provides hands-on experience with Phoenix, LiveView, API development, and deploying applications.
 - [Grox.io Courses :us: :heavy_dollar_sign:](https://grox.io/elixir-video-courses/for-individuals) - Comprehensive video courses on Elixir, designed to help you master the language and its ecosystem.
 - [Learn Phoenix LiveView, George Arrowsmith :us: :heavy_dollar_sign:](https://phoenixliveview.com/) - A comprehensive course that teaches you how to build dynamic, real-time web applications using Phoenix LiveView.
+- [Learn Elixir, Mika Kalathil, Jeremy Graham, Kurt Hogarth :us: :heavy_dollar_sign:](https://learn-elixir.dev/) - A thorough course designed to teach you Elixir programming from the ground up, covering essential concepts and practical applications.
+- [Elixir Casts :us: :heavy_dollar_sign:](https://elixircasts.io/) - A collection of screencasts covering a wide range of topics in Elixir and Phoenix, from beginner to advanced, to help you build and deploy applications efficiently.
+- [Build an MVP with Elixir, Peter Ullrich :us: :heavy_dollar_sign:](https://pjullrich.gumroad.com/l/bmvp) - A guide to building a Minimum Viable Product (MVP) using Elixir, providing practical insights and step-by-step instructions for efficiently creating a functional product.
+- [Build It with Phoenix, Geoffrey Lessel :us: :heavy_dollar_sign:](https://builditwithphoenix.com/) - A comprehensive course focused on building web applications with Phoenix and Elixir, providing practical lessons and hands-on examples to help you master the framework.
+- [Elixir for Programmers, Second Edition, Dave Thomas :us: :heavy_dollar_sign:](https://codestool.coding-gnome.com/courses/elixir-for-programmers-2) - An in-depth course by Dave Thomas, designed for programmers to efficiently learn Elixir and build scalable, fault-tolerant applications.
+- [Learn LiveView, Lubien :us: :brazil: :free:](https://adopt-liveview.lubien.dev/) - A free, comprehensive course by Lubien, focusing on mastering Phoenix LiveView for building interactive and real-time web applications with Elixir.
+- [Building Forms with Phoenix Liveview, Peter Ullrich :us: :heavy_dollar_sign:](https://indiecourses.com/catalog/building-forms-with-phoenix-liveview-2OPYIqaekkZwrpgLUZOyZV) - Learn how to build dynamic and interactive forms using Phoenix LiveView in this detailed course by Peter Ullrich.
+- [Testing LiveView, German Velasco :us: :heavy_dollar_sign:](https://www.testingliveview.com/) - Master the art of testing Phoenix LiveView applications with this comprehensive course by German Velasco.
+- [Productive Programmer :us: :heavy_dollar_sign:](https://www.productiveprogrammer.com/) - Offers a variety of courses on Elixir, Phoenix, Ecto, and more to help you become a more productive programmer.
 
 ## :newspaper: Newsletters
 
