@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
+:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :book: [Blogs](#book-blogs) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
 
 ## :speech_balloon: Chats
 
@@ -40,6 +40,13 @@
 - [Building Forms with Phoenix Liveview, Peter Ullrich :us: :heavy_dollar_sign:](https://indiecourses.com/catalog/building-forms-with-phoenix-liveview-2OPYIqaekkZwrpgLUZOyZV) - Learn how to build dynamic and interactive forms using Phoenix LiveView in this detailed course by Peter Ullrich.
 - [Testing LiveView, German Velasco :us: :heavy_dollar_sign:](https://www.testingliveview.com/) - Master the art of testing Phoenix LiveView applications with this comprehensive course by German Velasco.
 - [Productive Programmer :us: :heavy_dollar_sign:](https://www.productiveprogrammer.com/) - Offers a variety of courses on Elixir, Phoenix, Ecto, and more to help you become a more productive programmer.
+
+## :book: Blogs
+
+- [Dashbit :us:](https://dashbit.co/blog)
+- [Fly.io Phoenix Files :us:](https://fly.io/phoenix-files/)
+- [Dockyard :us:](https://dockyard.com/blog?filter=elixir)
+- [AppSignal :us:](https://blog.appsignal.com/category/elixir.html)
 
 ## :newspaper: Newsletters
 
