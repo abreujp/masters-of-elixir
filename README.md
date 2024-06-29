@@ -41,6 +41,13 @@
 - [Testing LiveView, German Velasco :us: :heavy_dollar_sign:](https://www.testingliveview.com/) - Master the art of testing Phoenix LiveView applications with this comprehensive course by German Velasco.
 - [Productive Programmer :us: :heavy_dollar_sign:](https://www.productiveprogrammer.com/) - Offers a variety of courses on Elixir, Phoenix, Ecto, and more to help you become a more productive programmer.
 
+## :blogs: Blogs
+
+- [Dashbit :us:](https://dashbit.co/blog)
+- [Fly.io Phoenix Files :us:](https://fly.io/phoenix-files/)
+- [Dockyard :us:](https://dockyard.com/blog?filter=elixir)
+- [AppSignal :us:](https://blog.appsignal.com/category/elixir.html)
+
 ## :newspaper: Newsletters
 
 - [Elixir Weekly :us:](https://elixirweekly.net/) - Weekly newsletter about Elixir.
