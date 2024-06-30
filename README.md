@@ -8,7 +8,7 @@
 
 ## Table of Contents
 
-:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :book: [Blogs](#book-blogs) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
+:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :book: [Blogs](#book-blogs) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :bookmark_tabs: [Cheatsheets](#bookmark_tabs-cheatsheets) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events)
 
 ## :speech_balloon: Chats
 
@@ -152,6 +152,9 @@
 ## :books: Online Tutorials
 
 - [Elixir School :us:](https://elixirschool.com/en) - Comprehensive online resource for learning Elixir. It offers a wide range of tutorials and lessons covering the basics to advanced topics in Elixir programming.
+
+## :bookmark_tabs: Cheatsheets
+- [Elixir Cheatsheet Devhints :us:](https://devhints.io/elixir) - Provide quick references for common Elixir syntax, functions, and modules.
 
 ## :briefcase: Jobs & Career
 
