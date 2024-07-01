@@ -180,6 +180,7 @@
 - [Elixir Round Table :us:](https://open.spotify.com/show/6a0ObQOK77re59EHxNt8Rc) - Round table discussions about Elixir.
 - [Beam Radio :us:](https://open.spotify.com/show/6vH87E5CYyCOkB7NKu55dV) - Podcast about the BEAM virtual machine.
 - [Elixir Mentor :us:](https://open.spotify.com/show/2rHsGq3C8LjtHicJbYt3m3) - Mentoring about Elixir.
+- [Elixir Newbie :us:](https://open.spotify.com/show/2VNf2tvHIjSxTXMY15qtdV?si=89fef6faa2534ff7) - A podcast for those new to Elixir, sharing experiences and learning tips.
 
 ## :computer: Programming Challenges
 
