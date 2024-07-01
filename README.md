@@ -24,6 +24,9 @@
 - [Elixir Official :us:](https://discord.com/invite/elixir) - Official Elixir community on Discord.
 - [Elixir Mentor :us:](https://discord.gg/rsTARfP4xx) - A supportive community for learning and mastering Elixir. Join us for mentorship, resources, and collaboration with fellow Elixir enthusiasts.
 
+#### Slack
+- [Elixir Official :us:](https://elixir-slack.community/) - Official Elixir community on Slack.
+
 ## :books: Courses
 
 - [Udemy Elixir Courses :us: :heavy_dollar_sign:](https://www.udemy.com/topic/elixir/) - A collection of various Elixir courses on Udemy.
