@@ -101,6 +101,7 @@
 - [Elixir Cookbook: Unleash the full power of programming in Elixir with over 60 incredibly effective recipes, Paulo Pereira :us:](https://www.packtpub.com/en-us/product/elixir-cookbook-9781784397517) - Discover over 60 practical recipes to enhance your Elixir programming skills and maximize your productivity.
 - [Learning Elixir: Unveil many hidden gems of programming functionally by taking the foundational steps with Elixir, Kenny Ballou, Kenneth Ballou :us:](https://www.packtpub.com/en-us/product/learning-elixir-9781785881749) - Explore the foundational steps of Elixir and uncover the hidden gems of functional programming with this comprehensive guide.
 - [Getting Started with Elixir: Build scalable, fault tolerant and maintainable applications using Elixir, João Goncalves :us:](https://www.packtpub.com/en-us/product/getting-started-with-elixir-9781787285491) - Learn how to build scalable, fault-tolerant, and maintainable applications using Elixir with this practical guide.
+- [Joy of Elixir, Ryan Bigg :us:](https://joyofelixir.com/toc.html) - The core concepts of the Elixir programming language in a fun and enjoyable way.
 
 ### Web
 
