@@ -169,7 +169,8 @@
 
 ## :iphone: Social Media
 
-- [Twitter Elixir :us:](https://twitter.com/elixirlang) - Follow the official Elixir account on Twitter.
+- [X - Elixir :us:](https://twitter.com/elixirlang) - Follow the official Elixir account on Twitter.
+- [X - José Valim :us: :brazil:](https://x.com/josevalim) - Follow José Valim, the creator of the Elixir programming language.
 
 ## :studio_microphone: Podcasts
 
