@@ -189,6 +189,7 @@
 
 - [Codewars :us:](https://www.codewars.com/dashboard) - Programming challenges to improve your Elixir skills.
 - [Exercism :us:](https://exercism.io/) - Practice Elixir with exercises and mentoring.
+- [Elixir Koans :us:](https://github.com/elixirkoans/elixir-koans) - A tour of the most important features and idiomatic usage of the language.
 
 ## :clapper: Youtube Channels
 
