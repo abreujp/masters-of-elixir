@@ -172,6 +172,10 @@
 
 - [X - Elixir :us:](https://twitter.com/elixirlang) - Follow the official Elixir account on Twitter.
 - [X - José Valim :us: :brazil:](https://x.com/josevalim) - Follow José Valim, the creator of the Elixir programming language.
+- [X - Dashbit :us:](https://x.com/dashbit) - Follow Dashbit, the company founded by José Valim.
+- [X - ElixirConf :us:](https://x.com/ElixirConf) - Follow ElixirConf for updates on the premier conference for Elixir developers.
+- [X - Phoenix Framework :us:](https://x.com/elixirphoenix) - Follow the official Phoenix Framework account.
+- [X - Livebook :us:](https://x.com/livebookdev) - Follow Livebook for updates on interactive and collaborative coding with Elixir.
 
 ## :studio_microphone: Podcasts
 
