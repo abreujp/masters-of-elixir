@@ -4,7 +4,7 @@
 
 ### :label: Labels
 
-:heavy_dollar_sign: Paid :free: Content Free :brazil: pt-BR :us: en
+:heavy_dollar_sign: Paid :free: Content Free :brazil: pt-BR :us: en :es: es
 
 ## Table of Contents
 
@@ -44,6 +44,7 @@
 - [Building Forms with Phoenix Liveview, Peter Ullrich :us: :heavy_dollar_sign:](https://indiecourses.com/catalog/building-forms-with-phoenix-liveview-2OPYIqaekkZwrpgLUZOyZV) - Learn how to build dynamic and interactive forms using Phoenix LiveView in this detailed course by Peter Ullrich.
 - [Testing LiveView, German Velasco :us: :heavy_dollar_sign:](https://www.testingliveview.com/) - Master the art of testing Phoenix LiveView applications with this comprehensive course by German Velasco.
 - [Productive Programmer :us: :heavy_dollar_sign:](https://www.productiveprogrammer.com/) - Offers a variety of courses on Elixir, Phoenix, Ecto, and more to help you become a more productive programmer.
+- [Curso Profesional de Elixir, Saúl Mendoza, :es: :heavy_dollar_sign:](https://codigofacilito.com/cursos/elixir-profesional) - A comprehensive professional course on Elixir by Saúl Mendoza.
 
 ## :book: Blogs
 
@@ -239,4 +240,3 @@
 ## :mortar_board: Academic Initiatives
 
 - [Research with Elixir :brazil:](https://pesquisecomelixir.com.br/) - A Brazilian initiative offering scholarships sponsored by companies for those pursuing a master's or doctorate with Elixir.
-
