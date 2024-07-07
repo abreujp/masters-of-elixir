@@ -4,7 +4,7 @@
 
 ### :label: Labels
 
-:heavy_dollar_sign: Paid :free: Content Free :brazil: pt-BR :us: en :es: es
+:heavy_dollar_sign: Paid :free: Content Free :brazil: Brazilian Portuguese :us: English :es: Spanish
 
 ## Table of Contents
 
