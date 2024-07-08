@@ -26,6 +26,7 @@
 - [Elixir Mentor :us:](https://discord.gg/rsTARfP4xx) - A supportive community for learning and mastering Elixir. Join us for mentorship, resources, and collaboration with fellow Elixir enthusiasts.
 
 #### Slack
+
 - [Elixir Official :us:](https://elixir-slack.community/) - Official Elixir community on Slack.
 
 ## :books: Courses
@@ -46,6 +47,7 @@
 - [Testing LiveView, German Velasco :us: :heavy_dollar_sign:](https://www.testingliveview.com/) - Master the art of testing Phoenix LiveView applications with this comprehensive course by German Velasco.
 - [Productive Programmer :us: :heavy_dollar_sign:](https://www.productiveprogrammer.com/) - Offers a variety of courses on Elixir, Phoenix, Ecto, and more to help you become a more productive programmer.
 - [Curso Profesional de Elixir, Saúl Mendoza, :es: :heavy_dollar_sign:](https://codigofacilito.com/cursos/elixir-profesional) - A comprehensive professional course on Elixir by Saúl Mendoza.
+- [Aprendendo Elixir, Helder :brazil: :free:](https://www.youtube.com/playlist?list=PLpz113t3_XTs_n5bl9-VZfyGB7dCQsSeE) - A beginner-friendly Elixir course available for free on YouTube, covering fundamental concepts and basic programming in Elixir.
 
 ## :book: Blogs
 
@@ -161,6 +163,7 @@
 - [Elixir School :us:](https://elixirschool.com/en) - Comprehensive online resource for learning Elixir. It offers a wide range of tutorials and lessons covering the basics to advanced topics in Elixir programming.
 
 ## :bookmark_tabs: Cheatsheets
+
 - [Elixir Cheatsheet Devhints :us:](https://devhints.io/elixir) - Provide quick references for common Elixir syntax, functions, and modules.
 
 ## :briefcase: Jobs & Career
