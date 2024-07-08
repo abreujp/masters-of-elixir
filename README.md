@@ -51,10 +51,10 @@
 
 ## :book: Blogs
 
-- [Dashbit :us:](https://dashbit.co/blog)
-- [Fly.io Phoenix Files :us:](https://fly.io/phoenix-files/)
-- [Dockyard :us:](https://dockyard.com/blog?filter=elixir)
-- [AppSignal :us:](https://blog.appsignal.com/category/elixir.html)
+- [Dashbit :us:](https://dashbit.co/blog) - Insights and updates from the creators of Elixir and open-source contributors.
+- [Fly.io Phoenix Files :us:](https://fly.io/phoenix-files/) - Articles and guides on deploying Phoenix applications on Fly.io.
+- [Dockyard :us:](https://dockyard.com/blog?filter=elixir) - Elixir tutorials, case studies, and technical deep dives.
+- [AppSignal :us:](https://blog.appsignal.com/category/elixir.html) - Performance monitoring and error tracking tips for Elixir developers.
 
 ## :newspaper: Newsletters
 
