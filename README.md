@@ -4,7 +4,7 @@
 
 ### :label: Labels
 
-:heavy_dollar_sign: Paid :free: Content Free :brazil: Brazilian Portuguese :us: English :es: Spanish
+:heavy_dollar_sign: Paid :free: Free Content :brazil: Brazilian Portuguese :us: English :es: Spanish :ru: Russian
 
 ## Table of Contents
 
@@ -19,6 +19,7 @@
 - [Elug CE :brazil:](https://t.me/elug_ce) - Elixir user group in Ceará, Brazil.
 - [Elixir World :us:](https://t.me/elixir_world) - Global Elixir group.
 - [ElixirES :es:](https://t.me/elixirES) - Elixir user group in Spanish.
+- [ProElixir :ru:](https://t.me/proelixir) - Elixir user group in Russia. 
 
 #### Discord
 
