@@ -19,7 +19,7 @@
 - [Elug CE :brazil:](https://t.me/elug_ce) - Elixir user group in Ceará, Brazil.
 - [Elixir World :us:](https://t.me/elixir_world) - Global Elixir group.
 - [ElixirES :es:](https://t.me/elixirES) - Elixir user group in Spanish.
-- [ProElixir :ru:](https://t.me/proelixir) - Elixir user group in Russia. 
+- [ProElixir :ru:](https://t.me/proelixir) - Elixir user group in Russian. 
 
 #### Discord
 
