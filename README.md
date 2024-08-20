@@ -164,6 +164,8 @@
 
 - [The Erlang Runtime System, Erik Stenman :us:](https://blog.stenmans.org/theBeamBook/) - A comprehensive guide to the inner workings of the Erlang Runtime System, covering BEAM internals, concurrency, and performance optimization.
 
+- [Network Programming in Elixir and Erlang, Andrea Leopardi :us:](https://pragprog.com/titles/alnpee/network-programming-in-elixir-and-erlang/) - Explores network protocols (TCP, UDP, DNS, HTTP) and efficient network application development using Erlang and Elixir. Covers BEAM's actor model, design patterns, and practices for creating scalable and resilient systems.
+
 ## :books: Online Tutorials
 
 - [Elixir School :us:](https://elixirschool.com/en) - Comprehensive online resource for learning Elixir. It offers a wide range of tutorials and lessons covering the basics to advanced topics in Elixir programming.
