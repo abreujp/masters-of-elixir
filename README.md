@@ -25,6 +25,7 @@
 - [Elixir Mentor :us:](https://discord.gg/rsTARfP4xx) - A supportive community for learning and mastering Elixir. Join us for mentorship, resources, and collaboration with fellow Elixir enthusiasts.
 
 #### Slack
+
 - [Elixir Official :us:](https://elixir-slack.community/) - Official Elixir community on Slack.
 
 ## :books: Courses
@@ -157,11 +158,14 @@
 
 - [The Erlang Runtime System, Erik Stenman :us:](https://blog.stenmans.org/theBeamBook/) - A comprehensive guide to the inner workings of the Erlang Runtime System, covering BEAM internals, concurrency, and performance optimization.
 
+- [Network Programming in Elixir and Erlang, Andrea Leopardi :us:](https://pragprog.com/titles/alnpee/network-programming-in-elixir-and-erlang/) - Explores network protocols (TCP, UDP, DNS, HTTP) and efficient network application development using Erlang and Elixir. Covers BEAM's actor model, design patterns, and practices for creating scalable and resilient systems.
+
 ## :books: Online Tutorials
 
 - [Elixir School :us:](https://elixirschool.com/en) - Comprehensive online resource for learning Elixir. It offers a wide range of tutorials and lessons covering the basics to advanced topics in Elixir programming.
 
 ## :bookmark_tabs: Cheatsheets
+
 - [Elixir Cheatsheet Devhints :us:](https://devhints.io/elixir) - Provide quick references for common Elixir syntax, functions, and modules.
 
 ## :briefcase: Jobs & Career
