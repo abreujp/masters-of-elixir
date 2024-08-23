@@ -50,7 +50,6 @@
 - [Curso Profesional de Elixir, Saúl Mendoza, :es: :heavy_dollar_sign:](https://codigofacilito.com/cursos/elixir-profesional) - A comprehensive professional course on Elixir by Saúl Mendoza.
 - [Aprendendo Elixir, Helder :brazil: :free:](https://www.youtube.com/playlist?list=PLpz113t3_XTs_n5bl9-VZfyGB7dCQsSeE) - A beginner-friendly Elixir course available for free on YouTube, covering fundamental concepts and basic programming in Elixir.
 - [Elixir Programming Language Training Course, Yuri Zhloba :ru: :free:](https://www.youtube.com/playlist?list=PLYuTgpYrBrVKnzanStbVGD09Cdx4YNEpO) - A free YouTube course on Elixir programming by Yuri Zhloba.
-- [Elixir Patterns, Alexander Koutmos :us: :heavy_dollar_sign:](https://elixirpatterns.dev/) - Learn recipes and patterns specific to Elixir/OTP and leverage the power of the BEAM.
 
 ## :book: Blogs
 
@@ -110,6 +109,7 @@
 - [Learning Elixir: Unveil many hidden gems of programming functionally by taking the foundational steps with Elixir, Kenny Ballou, Kenneth Ballou :us:](https://www.packtpub.com/en-us/product/learning-elixir-9781785881749) - Explore the foundational steps of Elixir and uncover the hidden gems of functional programming with this comprehensive guide.
 - [Getting Started with Elixir: Build scalable, fault tolerant and maintainable applications using Elixir, João Goncalves :us:](https://www.packtpub.com/en-us/product/getting-started-with-elixir-9781787285491) - Learn how to build scalable, fault-tolerant, and maintainable applications using Elixir with this practical guide.
 - [Joy of Elixir, Ryan Bigg :us:](https://joyofelixir.com/toc.html) - The core concepts of the Elixir programming language in a fun and enjoyable way.
+- [Elixir Patterns, Alexander Koutmos :us:](https://elixirpatterns.dev/) - Learn recipes and patterns specific to Elixir/OTP and leverage the power of the BEAM.
 
 ### Web
 
