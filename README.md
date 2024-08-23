@@ -19,7 +19,7 @@
 - [Elug CE :brazil:](https://t.me/elug_ce) - Elixir user group in Ceará, Brazil.
 - [Elixir World :us:](https://t.me/elixir_world) - Global Elixir group.
 - [ElixirES :es:](https://t.me/elixirES) - Elixir user group in Spanish.
-- [ProElixir :ru:](https://t.me/proelixir) - Elixir user group in Russian. 
+- [ProElixir :ru:](https://t.me/proelixir) - Elixir user group in Russian.
 
 #### Discord
 
@@ -50,6 +50,7 @@
 - [Curso Profesional de Elixir, Saúl Mendoza, :es: :heavy_dollar_sign:](https://codigofacilito.com/cursos/elixir-profesional) - A comprehensive professional course on Elixir by Saúl Mendoza.
 - [Aprendendo Elixir, Helder :brazil: :free:](https://www.youtube.com/playlist?list=PLpz113t3_XTs_n5bl9-VZfyGB7dCQsSeE) - A beginner-friendly Elixir course available for free on YouTube, covering fundamental concepts and basic programming in Elixir.
 - [Elixir Programming Language Training Course, Yuri Zhloba :ru: :free:](https://www.youtube.com/playlist?list=PLYuTgpYrBrVKnzanStbVGD09Cdx4YNEpO) - A free YouTube course on Elixir programming by Yuri Zhloba.
+- [Elixir Patterns, Alexander Koutmos :us: :heavy_dollar_sign:](https://elixirpatterns.dev/) - Learn recipes and patterns specific to Elixir/OTP and leverage the power of the BEAM.
 
 ## :book: Blogs
 
