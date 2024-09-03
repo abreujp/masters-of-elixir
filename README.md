@@ -182,6 +182,7 @@
 - [Elixir Radar Jobs :us:](https://elixir-radar.com/jobs) - Job board focused on Elixir-related opportunities.
 - [Jobs section on ElixirForum :us:](https://elixirforum.com/c/work/elixir-jobs/16) - Community forum with job postings for Elixir developers.
 - [Elixir Companies :us:](https://elixir-companies.com/en) - Directory of companies using Elixir, often with job listings.
+- [Elixir Careers :us:](https://elixir-careers.com/) - A job board dedicated to Elixir and Erlang ecosystem opportunities.
 
 ## :iphone: Social Media
 
