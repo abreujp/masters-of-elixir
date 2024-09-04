@@ -143,6 +143,7 @@
 ### Concurrency
 
 - [Concurrent Data Processing in Elixir, Fast Resilient Applications with OTP, GenStage, Flow, and Broadway, Svilen Gospodinov :us:](https://www.amazon.com.br/Concurrent-Data-Processing-Elixir-English-ebook/dp/B09GPDDK2N/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Learn how to build fast and resilient concurrent applications in Elixir using OTP, GenStage, Flow, and Broadway.
+- [Real-World Event Sourcing: Distribute, Evolve, and Scale Your Elixir Applications, Kevin Hoffman :us:](https://pragprog.com/titles/khpes/real-world-event-sourcing/) - Explore the theory and practice of event sourcing in Elixir applications. Learn how to design, develop, and scale distributed systems using event-driven architectures, with practical coding examples from early-stage development through production and release.
 
 ### IoT (Internet of Things)
 
