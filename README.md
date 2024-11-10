@@ -67,7 +67,7 @@
 - [Data Elixir :us:](https://dataelixir.com/) - Data Science - Newsletter about data science with a focus on Elixir.
 - [Awesome Elixir Newsletter :us:](https://elixir.libhunt.com/newsletter) - Amazing resources about Elixir.
 - [Café com Elixir :brazil:](https://cafecomelixir.substack.com/) - News and tips about Elixir from Brazil.
-- [BEAM Update :us:](https://beamupdate.dev/) - Weekly newsletter focusing on BEAM ecosystem updates, including Erlang, Elixir, and other BEAM languages.
+- [BEAM Update :us:](https://beam.co.ae/beam-update) - Weekly newsletter focusing on BEAM ecosystem updates, including Erlang, Elixir, and other BEAM languages.
 
 ## :book: Documentation
 
