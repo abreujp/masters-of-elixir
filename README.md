@@ -57,6 +57,7 @@
 - [Fly.io Phoenix Files :us:](https://fly.io/phoenix-files/) - Articles and guides on deploying Phoenix applications on Fly.io.
 - [Dockyard :us:](https://dockyard.com/blog?filter=elixir) - Elixir tutorials, case studies, and technical deep dives.
 - [AppSignal :us:](https://blog.appsignal.com/category/elixir.html) - Performance monitoring and error tracking tips for Elixir developers.
+- [ElixirStatus :us:](https://elixirstatus.com/) - News about elixir.
 
 ## :newspaper: Newsletters
 
@@ -66,6 +67,7 @@
 - [Data Elixir :us:](https://dataelixir.com/) - Data Science - Newsletter about data science with a focus on Elixir.
 - [Awesome Elixir Newsletter :us:](https://elixir.libhunt.com/newsletter) - Amazing resources about Elixir.
 - [Café com Elixir :brazil:](https://cafecomelixir.substack.com/) - News and tips about Elixir from Brazil.
+- [BEAM Update :us:](https://beamupdate.dev/) - Weekly newsletter focusing on BEAM ecosystem updates, including Erlang, Elixir, and other BEAM languages.
 
 ## :book: Documentation
 
