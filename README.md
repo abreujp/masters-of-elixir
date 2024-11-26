@@ -252,6 +252,7 @@
 - [Elixir Toolbox :us:](https://elixir-toolbox.dev/) - Find and compare Elixir libraries and tools.
 - [Hex :us:](https://hex.pm/) - The package manager for the Elixir ecosystem.
 - [Awesome Elixir, Github :us:](https://github.com/h4cc/awesome-elixir?tab=readme-ov-file) - A curated list of amazingly awesome Elixir libraries, resources, and shiny things.
+- [LibHunt Elixir :us:](https://www.libhunt.com/l/elixir) - A curated list of awesome Elixir libraries, with ranking, metrics and article mentions.
 
 ## :tada: Elixir Community Events
 
