@@ -256,6 +256,7 @@
 ## :tada: Elixir Community Events
 
 - [ElixirConf :us:](https://elixirconf.com/) - The premier conference for Elixir developers.
+- [Elixir Events :us:](https://elixirevents.net/) - A curated collection of global Elixir conferences, meetups, and community events.
 
 ## :mortar_board: Academic Initiatives
 
