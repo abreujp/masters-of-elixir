@@ -58,6 +58,7 @@
 - [Dockyard :us:](https://dockyard.com/blog?filter=elixir) - Elixir tutorials, case studies, and technical deep dives.
 - [AppSignal :us:](https://blog.appsignal.com/category/elixir.html) - Performance monitoring and error tracking tips for Elixir developers.
 - [ElixirStatus :us:](https://elixirstatus.com/) - News about elixir.
+- [Dev.to Elixir :us:](https://dev.to/t/elixir) - Community-driven articles and discussions about Elixir programming.
 
 ## :newspaper: Newsletters
 
