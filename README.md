@@ -211,6 +211,7 @@
 - [Beam Radio :us:](https://open.spotify.com/show/6vH87E5CYyCOkB7NKu55dV) - Podcast about the BEAM virtual machine.
 - [Elixir Mentor :us:](https://open.spotify.com/show/2rHsGq3C8LjtHicJbYt3m3) - Mentoring about Elixir.
 - [Elixir Newbie :us:](https://open.spotify.com/show/2VNf2tvHIjSxTXMY15qtdV?si=89fef6faa2534ff7) - A podcast for those new to Elixir, sharing experiences and learning tips.
+- [Elixir Friends :us:](https://open.spotify.com/show/5B4Cq09tF4Jm3jcID85HqH?si=0b3d756e957c4b30) - Conversations about work, life, and other things with Elixir friends. Inspired by the hallway track of ElixirConf.
 
 ## :computer: Programming Challenges
 
