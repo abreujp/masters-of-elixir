@@ -8,7 +8,9 @@
 
 ## Table of Contents
 
-:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :book: [Blogs](#book-blogs) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :bookmark_tabs: [Cheatsheets](#bookmark_tabs-cheatsheets) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events) - :mortar_board: [Academic Initiatives](#mortar_board-academic-initiatives)
+## Table of Contents
+
+:speech_balloon: [Chats](#speech_balloon-chats) - :books: [Courses](#books-courses) - :newspaper: [Newsletters](#newspaper-newsletters) - :book: [Documentation](#book-documentation) - :book: [Blogs](#book-blogs) - :globe_with_meridians: [Forums](#globe_with_meridians-forums) - :books: [Books](#books-books) - :books: [Online Tutorials](#books-online-tutorials) - :bookmark_tabs: [Cheatsheets](#bookmark_tabs-cheatsheets) - :briefcase: [Jobs & Career](#briefcase-jobs--career) - :iphone: [Social Media](#iphone-social-media) - :studio_microphone: [Podcasts](#studio_microphone-podcasts) - :computer: [Programming Challenges](#computer-programming-challenges) - :clapper: [Youtube Channels](#clapper-youtube-channels) - :globe_with_meridians: [Hosting Services](#globe_with_meridians-hosting-services) - :package: [Package Information](#package-package-information) - :tada: [Elixir Community Events](#tada-elixir-community-events) - :mortar_board: [Academic Initiatives](#mortar_board-academic-initiatives) - :wrench: [Tools](#wrench-tools)
 
 ## :speech_balloon: Chats
 
@@ -265,3 +267,7 @@
 ## :mortar_board: Academic Initiatives
 
 - [Research with Elixir :brazil:](https://pesquisecomelixir.com.br/) - A Brazilian initiative offering scholarships sponsored by companies for those pursuing a master's or doctorate with Elixir.
+
+## :wrench: Tools
+
+- [Elixir Stream Dev :us:](https://elixirstream.dev/regex) - Online development tools including Regex Tester, HTTP Sink, Generator Diff and Tips for Elixir programming.
