@@ -244,6 +244,9 @@
 - [Livebook :us:](https://www.youtube.com/@livebookdev) - Official channel for Livebook, featuring tutorials, updates, and insights on using Livebook for interactive and collaborative Elixir development.
 - [Elixir Crash Course by Daniel Berg :us:](https://www.youtube.com/watch?v=Q0Z1jqv6LW0&list=PLbV6TI03ZWYVQEC_Txq_cV0Uy_s16b0d3) - A comprehensive crash course on Elixir by Daniel Berg, covering fundamental concepts and practical examples to help you get started with Elixir development.
 - [Empex Conference :us:](https://www.youtube.com/@EMPEXconference) - Videos from the Empex Conference, featuring talks and presentations focused on Elixir and the Erlang ecosystem.
+- [Code and Stuff :us:](https://www.youtube.com/@CodeAndStuff) - Code, build projects, and explore the latest in technology.
+- [Peter Ullrich :us:](https://www.youtube.com/@pjullrich) - Peter talks about general software development and coding in Elixir in particular.
+- [Andrew Stewart :us:](https://www.youtube.com/@srcrip) - Helping people master Elixir, Phoenix, LiveView.
 
 ## :globe_with_meridians: Hosting Services
 
