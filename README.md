@@ -247,6 +247,7 @@
 - [Code and Stuff :us:](https://www.youtube.com/@CodeAndStuff) - Code, build projects, and explore the latest in technology.
 - [Peter Ullrich :us:](https://www.youtube.com/@pjullrich) - Peter talks about general software development and coding in Elixir in particular.
 - [Andrew Stewart :us:](https://www.youtube.com/@srcrip) - Helping people master Elixir, Phoenix, LiveView.
+- [E-xyza :us:](https://www.youtube.com/@E-xyza) - Elixir Code casts brought to you by Isaac Yonemoto.
 
 ## :globe_with_meridians: Hosting Services
 
