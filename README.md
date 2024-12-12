@@ -274,3 +274,4 @@
 ## :wrench: Tools
 
 - [Elixir Stream Dev :us:](https://elixirstream.dev/regex) - Online development tools including Regex Tester, HTTP Sink, Generator Diff and Tips for Elixir programming.
+- [DepViz :us:](https://depviz.jasonaxelson.com/) - A visual tool to understand and analyze Elixir project dependencies and recompilation paths.
