@@ -22,7 +22,6 @@
 - [Elixir World :us:](https://t.me/elixir_world) - Global Elixir group.
 - [ElixirES :es:](https://t.me/elixirES) - Elixir user group in Spanish.
 - [ProElixir :ru:](https://t.me/proelixir) - Elixir user group in Russian.
-- [My Elixir Status :us:](https://t.me/myelixirstatus) - Group with updates from X hashtag #MyElixirStatus developed by @abreujp
 
 #### Discord
 
