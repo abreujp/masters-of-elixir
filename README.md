@@ -86,6 +86,7 @@
 - [Nerves :us:](https://hexdocs.pm/nerves) - Official documentation for Nerves, a framework for building embedded systems with Elixir.
 - [Nx :us:](https://hexdocs.pm/nx) - Numerical Elixir (Nx) is a library for numerical computations.
 - [Elixir FAQ :us:](https://elixir.0x3d.site/) - Collection of frequently asked questions and answers about Elixir.
+- [RunElixir.com :us:](https://runelixir.com/welcome) - A Guide for Elixir by Peter Ullrich.
 
 ## :globe_with_meridians: Forums
 
