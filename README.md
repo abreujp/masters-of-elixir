@@ -250,6 +250,7 @@
 - [E-xyza :us:](https://www.youtube.com/@E-xyza) - Elixir Code casts brought to you by Isaac Yonemoto.
 - [German Velasco :us:](https://www.youtube.com/@germanvelasco) - Learning and teaching better ways to build software.
 - [Paraxial :us:](https://www.youtube.com/@paraxial5874) - Real Security for Developers.
+- [DockYard :us:](https://www.youtube.com/@dockyard) - Official videos of DockYard events.
 
 ## :globe_with_meridians: Hosting Services
 
