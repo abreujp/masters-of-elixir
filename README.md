@@ -117,6 +117,7 @@
 - [Getting Started with Elixir: Build scalable, fault tolerant and maintainable applications using Elixir, João Goncalves :us:](https://www.packtpub.com/en-us/product/getting-started-with-elixir-9781787285491) - Learn how to build scalable, fault-tolerant, and maintainable applications using Elixir with this practical guide.
 - [Joy of Elixir, Ryan Bigg :us:](https://joyofelixir.com/toc.html) - The core concepts of the Elixir programming language in a fun and enjoyable way.
 - [Elixir Patterns, Alexander Koutmos :us:](https://elixirpatterns.dev/) - Learn recipes and patterns specific to Elixir/OTP and leverage the power of the BEAM.
+- [Elixir Programming: Concurrent, Functional Language for Scalable, Maintainable Applications, Theophilus Edet :us:](https://www.amazon.com/Elixir-Programming-Concurrent-Maintainable-Applications-ebook/dp/B0D9QD54D6) - Unlock Elixir: Concurrent Functional Programming for Modern Applications.
 
 ### Web
 
