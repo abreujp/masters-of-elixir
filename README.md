@@ -132,6 +132,7 @@
 - [Craft GraphQL APIs in Elixir with Absinthe, Flexible, Robust Services for Queries, Mutations, and Subscriptions, Bruce Williams, Ben Wilson :us:](https://pragprog.com/titles/wwgraphql/craft-graphql-apis-in-elixir-with-absinthe/) - Learn to build flexible, robust GraphQL APIs with Elixir using Absinthe, covering essential concepts, best practices, and real-world examples for queries, mutations, and subscriptions.
 - [Phoenix Web Development: Create rich web applications using functional programming techniques with Phoenix and Elixir, Brandon Richey :us:](https://www.packtpub.com/en-us/product/phoenix-web-development-9781787284197) - Master web development with Phoenix and Elixir, utilizing functional programming techniques to build dynamic and efficient web applications.
 - [Consumindo APIs com Elixir, Iago Effting :brazil:](https://consumindo-apis-com-elixir.cafecomelixir.com.br/) - This resource provides a comprehensive guide on how to consume APIs using Elixir, offering practical examples and best practices for integrating external services into your Elixir applications.
+- [Phoenix Framework, Manuel Rubio :es:](https://altenwald.com/book/phoenix-framework) - Red Social en 7 días.
 
 ### Metaprogramming
 
