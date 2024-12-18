@@ -188,7 +188,6 @@
 ## :briefcase: Jobs & Career
 
 - [Elixir Jobs :us:](https://elixirjobs.net/) - A job board specifically for Elixir developers.
-- [LinkedIn :us:](https://www.linkedin.com/jobs/elixir-developer-jobs/) - Professional networking site with job postings for Elixir developers.
 - [Elixir Radar Jobs :us:](https://elixir-radar.com/jobs) - Job board focused on Elixir-related opportunities.
 - [Jobs section on ElixirForum :us:](https://elixirforum.com/c/work/elixir-jobs/16) - Community forum with job postings for Elixir developers.
 - [Elixir Companies :us:](https://elixir-companies.com/en) - Directory of companies using Elixir, often with job listings.
