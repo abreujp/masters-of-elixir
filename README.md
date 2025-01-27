@@ -253,6 +253,7 @@
 - [Paraxial :us:](https://www.youtube.com/@paraxial5874) - Real Security for Developers.
 - [DockYard :us:](https://www.youtube.com/@dockyard) - Official videos of DockYard events.
 - [David Alencar :us: :brazil:](https://www.youtube.com/@odavidalencar) - Turning reality into code and vice versa.
+- [ElixirForges, :us:](https://www.youtube.com/@ElixirForges) - Elixir tutorials, coding tips.
 
 ## :globe_with_meridians: Hosting Services
 
