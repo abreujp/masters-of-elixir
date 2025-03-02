@@ -133,6 +133,7 @@
 - [Phoenix Web Development: Create rich web applications using functional programming techniques with Phoenix and Elixir, Brandon Richey :us:](https://www.packtpub.com/en-us/product/phoenix-web-development-9781787284197) - Master web development with Phoenix and Elixir, utilizing functional programming techniques to build dynamic and efficient web applications.
 - [Consumindo APIs com Elixir, Iago Effting :brazil:](https://consumindo-apis-com-elixir.cafecomelixir.com.br/) - This resource provides a comprehensive guide on how to consume APIs using Elixir, offering practical examples and best practices for integrating external services into your Elixir applications.
 - [Phoenix Framework, Manuel Rubio :es:](https://altenwald.com/book/phoenix-framework) - Red Social en 7 días.
+- [Ash Framework, Create Declarative Elixir Web Apps, Rebecca Le, Zach Daniel :us:](https://pragprog.com/titles/ldash/ash-framework/) - Ash Framework is the game-changing toolkit for Elixir developers. With modular, plug-and-play building blocks, Ash slashes development time, effort, and complexity, letting you do more with less code.
 
 ### Metaprogramming
 
