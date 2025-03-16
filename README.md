@@ -175,8 +175,10 @@
 ### Erlang and BEAM Ecosystem
 
 - [The Erlang Runtime System, Erik Stenman :us:](https://blog.stenmans.org/theBeamBook/) - A comprehensive guide to the inner workings of the Erlang Runtime System, covering BEAM internals, concurrency, and performance optimization.
-
 - [Network Programming in Elixir and Erlang, Andrea Leopardi :us:](https://pragprog.com/titles/alnpee/network-programming-in-elixir-and-erlang/) - Explores network protocols (TCP, UDP, DNS, HTTP) and efficient network application development using Erlang and Elixir. Covers BEAM's actor model, design patterns, and practices for creating scalable and resilient systems.
+- [Stuff Goes Bad, Erlang in Anger, Fred Hebert :us:](https://www.erlang-in-anger.com/) - A little guide about how to be the Erlang medic in a time of war.
+- [Learn You Some Erlang for Great Good!, Fred Hebert :us:](https://learnyousomeerlang.com/) - This book is for you if you’ve got some programming experience and if you’re not too familiar with functional programming.
+- [Designing Elixir Systems with OTP, James Edward Gray II, Bruce A. Tate :us:](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/) - Write Highly Scalable, Self-Healing Software with Layers.
 
 ## :books: Online Tutorials
 
