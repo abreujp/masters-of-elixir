@@ -134,6 +134,7 @@
 - [Consumindo APIs com Elixir, Iago Effting :brazil:](https://consumindo-apis-com-elixir.cafecomelixir.com.br/) - This resource provides a comprehensive guide on how to consume APIs using Elixir, offering practical examples and best practices for integrating external services into your Elixir applications.
 - [Phoenix Framework, Manuel Rubio :es:](https://altenwald.com/book/phoenix-framework) - Red Social en 7 días.
 - [Ash Framework, Create Declarative Elixir Web Apps, Rebecca Le, Zach Daniel :us:](https://pragprog.com/titles/ldash/ash-framework/) - Ash Framework is the game-changing toolkit for Elixir developers. With modular, plug-and-play building blocks, Ash slashes development time, effort, and complexity, letting you do more with less code.
+- [Phoenix Product Codex, Develop and Deploy a REST API for Product Data Management with Elixir and Phoenix, Isaak Tsalicoglou :us:](https://leanpub.com/phoenix-product-codex) - Transform chaos into order with Phoenix Product Codex: a thrilling, real-world journey of building a production-ready REST API for product data management using Elixir and Phoenix, born from the requirements of a family-run business facing a government mandate for electronic invoicing
 
 ### Metaprogramming
 
