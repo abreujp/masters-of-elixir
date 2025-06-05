@@ -178,6 +178,7 @@
 - [Stuff Goes Bad, Erlang in Anger, Fred Hebert :us:](https://www.erlang-in-anger.com/) - A little guide about how to be the Erlang medic in a time of war.
 - [Learn You Some Erlang for Great Good!, Fred Hebert :us:](https://learnyousomeerlang.com/) - This book is for you if you’ve got some programming experience and if you’re not too familiar with functional programming.
 - [Designing Elixir Systems with OTP, James Edward Gray II, Bruce A. Tate :us:](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/) - Write Highly Scalable, Self-Healing Software with Layers.
+- [The BEAM Book: Understanding the Erlang Runtime System, Dr Erik Stenman :us:](https://www.amazon.com/BEAM-Book-Understanding-Erlang-Runtime/dp/9153142535) - Deep dive into BEAM internals, covering process scheduling, memory, and the Actor Model. Essential for mastering Erlang/Elixir performance and reliability.
 
 ## :books: Online Tutorials
 
