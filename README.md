@@ -290,3 +290,4 @@
 - [Elixir Observer :us:](https://elixir-observer.com/) - A modern package discovery platform to find, compare, and explore Elixir packages with an enhanced visual interface.
 - [HexDeck.pm :us:](https://hexdeck.pm) - A multi-column documentation viewer for Hex packages that allows developers to browse and compare multiple Elixir library documentations side by side.
 - [Elixir Playground :us:](https://playground.functional-rewire.com/) - An online interactive environment for writing and experimenting with Elixir code.
+- [Elixir 1.19.0-dev Functions Anki Deck :us:](https://ankiweb.net/shared/info/1630013849) - Anki flashcard deck covering all functions from Elixir 1.19.0-dev for effective memorization and quick reference.
