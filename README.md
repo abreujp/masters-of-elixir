@@ -258,6 +258,7 @@
 - [David Alencar :us: :brazil:](https://www.youtube.com/@odavidalencar) - Turning reality into code and vice versa.
 - [ElixirForges, :us:](https://www.youtube.com/@ElixirForges) - Elixir tutorials, coding tips.
 - [Erlang Solutions, :us:](https://www.youtube.com/@ErlangSolutions) - We build transformative solutions for the world’s most ambitious companies.
+- [Sriram Kota :us:](https://www.youtube.com/@sriramkota) - Videos and tutorials exploring Elixir, functional programming, and related technologies.
 
 ## :globe_with_meridians: Hosting Services
 
