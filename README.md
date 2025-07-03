@@ -149,6 +149,7 @@
 - [Programming Ecto: Build Database Apps in Elixir for Scalability and Performance, Darin Wilson, Eric Meadows-Jönsson :us:](https://www.amazon.com.br/Programming-Ecto-Database-Scalability-Performance-ebook/dp/B07RRS9C1T/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Master the Ecto library to build efficient, scalable, and high-performance database applications in Elixir.
 - [Exploring Graphs with Elixir, Connect Data with Native Graph Libraries and Graph Databases :us:](https://www.amazon.com.br/Exploring-Graphs-Elixir-English-Hammond-ebook/dp/B0BPZ11Z66/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&s=digital-text&sr=1-1) - Discover how to work with graph data structures and graph databases in Elixir.
 - [Northwind Elixir Traders, A practical tutorial on databases with Elixir, Ecto, and SQLite, Isaak Tsalicoglou :us:](https://leanpub.com/northwind-elixir-traders) - A practical guide to working with databases using Elixir, Ecto, and SQLite, offering hands-on examples and real-world scenarios to enhance your database management skills.
+- [Ecto: Bases de Datos en Elixir, Manuel Ángel Rubio Jiménez :es:](https://altenwald.com/book/ecto)- Master Ecto database abstraction layer for Elixir. Covers repositories, migrations, schemas, changesets, relationships, queries, testing, and custom data types with practical examples.
 
 ### Concurrency
 
