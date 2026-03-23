@@ -284,6 +284,7 @@
 
 - [ElixirConf :us:](https://elixirconf.com/) - The premier conference for Elixir developers.
 - [Elixir Events :us:](https://elixirevents.net/) - A curated collection of global Elixir conferences, meetups, and community events.
+- [Elixir Events (Org) :us:](https://elixirevents.org/) - A community-driven platform listing Elixir conferences, meetups, and events worldwide.
 
 ## :mortar_board: Academic Initiatives
 
