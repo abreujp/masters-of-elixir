@@ -46,11 +46,9 @@ defmodule LinkCheckerScript do
   defp valid_url?(url) do
     url = String.downcase(url)
 
-    not String.starts_with?(url, "#") and
-      not String.starts_with?(url, "mailto:") and
-      not String.starts_with?(url, "javascript:") and
-      not String.contains?(url, "localhost") and
-      String.length(url) > 5
+    # Must start with http:// or https://
+    (String.starts_with?(url, "http://") or String.starts_with?(url, "https://")) and
+      not String.contains?(url, "localhost")
   end
 
   defp check_links(urls) do
@@ -97,7 +95,9 @@ defmodule LinkCheckerScript do
       {:ok, {{_, status_code, _}, _, _}} when status_code in 300..399 -> {url, :ok, status_code}
       {:ok, {{_, 429, _}, _, _}} -> {url, :warning, :rate_limited}
       {:ok, {{_, 403, _}, _, _}} -> {url, :warning, :forbidden}
-      {:ok, {{_, status_code, _}, _, _}} -> {url, :error, status_code}
+      {:ok, {{_, 405, _}, _, _}} -> {url, :warning, :method_not_allowed}
+      {:ok, {{_, 404, _}, _, _}} -> {url, :error, :not_found}
+      {:ok, {{_, status_code, _}, _, _}} -> {url, :warning, status_code}
       {:error, reason} -> {url, :error, normalize_error(reason)}
     end
   rescue
