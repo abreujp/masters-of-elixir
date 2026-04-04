@@ -1,0 +1,38 @@
+name: Check Links
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+  schedule:
+    # Executa toda segunda-feira às 9h UTC
+    - cron: '0 9 * * 1'
+  workflow_dispatch: # Permite execução manual
+
+jobs:
+  check-links:
+    name: Verify Links
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Elixir
+        uses: erlef/setup-beam@v1
+        with:
+          elixir-version: '1.17'
+          otp-version: '27'
+
+      - name: Check links
+        run: elixir check_links.exs README.md
+        timeout-minutes: 15
+
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: link-checker-report
+          path: link-checker-report.txt
+          retention-days: 30

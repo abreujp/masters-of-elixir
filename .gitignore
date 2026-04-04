@@ -1,0 +1,12 @@
+# Sistema
+.DS_Store
+*~
+*.swp
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Relatório gerado pelo link checker
+link-checker-report.txt

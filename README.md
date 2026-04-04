@@ -29,14 +29,13 @@
 
 #### Slack
 
-- [Elixir Official :us:](https://elixir-slack.community/) - Official Elixir community on Slack.
+- [Elixir Official :us:](https://elixir-lang.slack.com/join/shared_invite/zt-eivteker-k_nArD59XHjjN_r8qeH6dw#/shared-invite/email) - Official Elixir community on Slack.
 
 ## :books: Courses
 
 - [Udemy Elixir Courses :us: :heavy_dollar_sign:](https://www.udemy.com/topic/elixir/) - A collection of various Elixir courses on Udemy.
 - [Pragmatic Studio Elixir Course :us: :heavy_dollar_sign:](https://pragmaticstudio.com/elixir) - Learn Elixir through this comprehensive course by Pragmatic Studio.
-- [ELXPRO :us: :heavy_dollar_sign:](https://elxpro.com/) - A comprehensive course designed to make you an expert in Elixir, covering common mistakes, advanced techniques like the PPC (Phoenix and LiveView) and PEER (Process, Ecto, External services, and REST) methods. It provides hands-on experience with Phoenix, LiveView, API development, and deploying applications.
-- [Grox.io Courses :us: :heavy_dollar_sign:](https://grox.io/elixir-video-courses/for-individuals) - Comprehensive video courses on Elixir, designed to help you master the language and its ecosystem.
+- [Grox.io :us: :heavy_dollar_sign:](https://grox.io/) - Comprehensive video courses on Elixir, designed to help you master the language and its ecosystem.
 - [Learn Phoenix LiveView, George Arrowsmith :us: :heavy_dollar_sign:](https://phoenixliveview.com/) - A comprehensive course that teaches you how to build dynamic, real-time web applications using Phoenix LiveView.
 - [Phoenix on Rails, George Arrowsmith :us: :heavy_dollar_sign:](https://phoenixonrails.com/) - A comprehensive Elixir and Phoenix tutorial for developers who already know Ruby on Rails.
 - [Learn Elixir, Mika Kalathil, Jeremy Graham, Kurt Hogarth :us: :heavy_dollar_sign:](https://learn-elixir.dev/) - A thorough course designed to teach you Elixir programming from the ground up, covering essential concepts and practical applications.
@@ -86,7 +85,6 @@
 - [Ecto :us:](https://hexdocs.pm/ecto) - Official documentation for Ecto, the database wrapper and query generator for Elixir.
 - [Nerves :us:](https://hexdocs.pm/nerves) - Official documentation for Nerves, a framework for building embedded systems with Elixir.
 - [Nx :us:](https://hexdocs.pm/nx) - Numerical Elixir (Nx) is a library for numerical computations.
-- [Elixir FAQ :us:](https://elixir.0x3d.site/) - Collection of frequently asked questions and answers about Elixir.
 - [RunElixir.com :us:](https://runelixir.com/welcome) - A Guide for Elixir by Peter Ullrich.
 
 ## :globe_with_meridians: Forums
@@ -200,7 +198,6 @@
 - [Elixir Radar Jobs :us:](https://elixir-radar.com/jobs) - Job board focused on Elixir-related opportunities.
 - [Jobs section on ElixirForum :us:](https://elixirforum.com/c/work/elixir-jobs/16) - Community forum with job postings for Elixir developers.
 - [Elixir Companies :us:](https://elixir-companies.com/en) - Directory of companies using Elixir, often with job listings.
-- [Elixir Careers :us:](https://elixir-careers.com/) - A job board dedicated to Elixir and Erlang ecosystem opportunities.
 - [BeamRec :us:](https://www.beamrec.com/) - Job board and recruitment platform focused on Elixir, Erlang, and the BEAM ecosystem.
 
 ## :iphone: Social Media
@@ -251,7 +248,6 @@
 - [Você desenvolvedor :brazil:](https://www.youtube.com/@vocedesenvolvedor) - Videos about software development, focusing on Elixir and other technologies.
 - [Groxio :us:](https://www.youtube.com/@groxio) - Channel focused on Elixir, functional programming, and continuous learning.
 - [Montreal Elixir :us:](https://www.youtube.com/@montrealelixir) - Channel of the Montreal Elixir community, featuring meetups, talks, and discussions about Elixir and related technologies.
-- [Livebook :us:](https://www.youtube.com/@livebookdev) - Official channel for Livebook, featuring tutorials, updates, and insights on using Livebook for interactive and collaborative Elixir development.
 - [Elixir Crash Course by Daniel Berg :us:](https://www.youtube.com/watch?v=Q0Z1jqv6LW0&list=PLbV6TI03ZWYVQEC_Txq_cV0Uy_s16b0d3) - A comprehensive crash course on Elixir by Daniel Berg, covering fundamental concepts and practical examples to help you get started with Elixir development.
 - [Empex Conference :us:](https://www.youtube.com/@EMPEXconference) - Videos from the Empex Conference, featuring talks and presentations focused on Elixir and the Erlang ecosystem.
 - [Code and Stuff :us:](https://www.youtube.com/@CodeAndStuff) - Code, build projects, and explore the latest in technology.
@@ -261,8 +257,6 @@
 - [German Velasco :us:](https://www.youtube.com/@germanvelasco) - Learning and teaching better ways to build software.
 - [Paraxial :us:](https://www.youtube.com/@paraxial5874) - Real Security for Developers.
 - [DockYard :us:](https://www.youtube.com/@dockyard) - Official videos of DockYard events.
-- [David Alencar :us: :brazil:](https://www.youtube.com/@odavidalencar) - Turning reality into code and vice versa.
-- [ElixirForges, :us:](https://www.youtube.com/@ElixirForges) - Elixir tutorials, coding tips.
 - [Erlang Solutions, :us:](https://www.youtube.com/@ErlangSolutions) - We build transformative solutions for the world’s most ambitious companies.
 - [Sriram Kota :us:](https://www.youtube.com/@sriramkota) - Videos and tutorials exploring Elixir, functional programming, and related technologies.
 
@@ -286,9 +280,6 @@
 - [Elixir Events :us:](https://elixirevents.net/) - A curated collection of global Elixir conferences, meetups, and community events.
 - [Elixir Events (Org) :us:](https://elixirevents.org/) - A community-driven platform listing Elixir conferences, meetups, and events worldwide.
 
-## :mortar_board: Academic Initiatives
-
-- [Research with Elixir :brazil:](https://pesquisecomelixir.com.br/) - A Brazilian initiative offering scholarships sponsored by companies for those pursuing a master's or doctorate with Elixir.
 
 ## :wrench: Tools
 
