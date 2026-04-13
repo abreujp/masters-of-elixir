@@ -196,7 +196,7 @@
 - [Elixir Jobs :us:](https://elixirjobs.net/) - A job board specifically for Elixir developers.
 - [Elixir Radar Jobs :us:](https://elixir-radar.com/jobs) - Job board focused on Elixir-related opportunities.
 - [Jobs section on ElixirForum :us:](https://elixirforum.com/c/work/elixir-jobs/16) - Community forum with job postings for Elixir developers.
-- [Elixir Companies :us:](https://elixir-companies.com/en) - Directory of companies using Elixir, often with job listings.
+- [Elixir Companies :us:](https://elixir-companies.com) - Directory of companies using Elixir, often with job listings.
 - [BeamRec :us:](https://www.beamrec.com/) - Job board and recruitment platform focused on Elixir, Erlang, and the BEAM ecosystem.
 
 ## :iphone: Social Media
