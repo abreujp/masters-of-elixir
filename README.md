@@ -288,3 +288,7 @@
 - [HexDeck.pm :us:](https://hexdeck.pm) - A multi-column documentation viewer for Hex packages that allows developers to browse and compare multiple Elixir library documentations side by side.
 - [Elixir Playground :us:](https://playground.functional-rewire.com/) - An online interactive environment for writing and experimenting with Elixir code.
 - [Elixir 1.19.0-dev Functions Anki Deck :us:](https://ankiweb.net/shared/info/1630013849) - Anki flashcard deck covering all functions from Elixir 1.19.0-dev for effective memorization and quick reference.
+- [Elixir 1.19.5 Functions Anki Deck :us:](https://ankiweb.net/shared/info/796097095) - Anki flashcard deck covering functions in the Elixir programming language.
+- [Ecto 3.13.5 Anki Deck :us:](https://ankiweb.net/shared/info/92685019) - Anki flashcard deck covering database interactions in Elixir using Ecto, including schemas, changesets, queries, and data validation.
+- [Phoenix 1.8.4 Anki Deck :us:](https://ankiweb.net/shared/info/315335949) - Anki flashcard deck covering web development in Elixir using the Phoenix framework, including routing, controllers, views, and MVC concepts.
+- [Phoenix LiveView 1.1.27 Anki Deck :us:](https://ankiweb.net/shared/info/882142399) - Anki flashcard deck covering real-time user interfaces in Elixir using Phoenix LiveView, including stateful views, events, and server-rendered interactivity.
